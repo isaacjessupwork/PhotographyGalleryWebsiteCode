@@ -1,5 +1,5 @@
 /* ===== Isaac Jessup Photography — script.js =====
-   Shared behaviour: rolodex menu (all pages), home carousel,
+   Shared behaviour: pop-up portfolio menu (all pages), home carousel,
    masonry gallery + lightbox. Photo data lives in data.js. */
 (function () {
   const D = window.PORTFOLIO;
@@ -7,123 +7,48 @@
   // Random order on every visit (Fisher–Yates shuffle)
   const shuffle = (a) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 
-  /* ---------------- Rolodex menu ---------------- */
+  /* ---------------- Portfolio menu (pop-up) ---------------- */
   function buildMenu() {
+    const WORK = ["portraits", "products", "projects"];
+    const isWork = (c) => WORK.some((w) => c.slug === w || c.slug.startsWith(w + "-"));
+    const cur = new URLSearchParams(location.search).get("c");
+    const link = (c, i) =>
+      `<li style="--i:${i}"><a href="gallery.html?c=${encodeURIComponent(c.slug)}"` +
+      (c.slug === cur ? ' class="current"' : "") + `>${c.name}</a></li>`;
+    const places = D.categories.filter((c) => !isWork(c));
+    const work = D.categories.filter(isWork);
+
     const overlay = document.createElement("div");
     overlay.className = "menu-overlay";
     overlay.setAttribute("aria-hidden", "true");
     overlay.innerHTML = `
       <button class="menu-close" type="button">Close ✕</button>
-      <div class="rolodex" tabindex="0" aria-label="Portfolio folders">
-        <div class="rolodex-line"></div>
-        <div class="rolodex-wheel"></div>
-      </div>
-      <div class="menu-hint">Scroll · Drag · ↑ ↓ — click to open</div>`;
+      <nav class="menu-panel" aria-label="Portfolio">
+        <section>
+          <h2 class="menu-label">Places</h2>
+          <ul class="menu-list menu-places">${places.map(link).join("")}</ul>
+        </section>
+        <section>
+          <h2 class="menu-label">Work</h2>
+          <ul class="menu-list">${work.map((c, k) => link(c, places.length + k)).join("")}</ul>
+        </section>
+      </nav>`;
     document.body.appendChild(overlay);
-
-    const rolo = $(".rolodex", overlay);
-    const wheel = $(".rolodex-wheel", overlay);
-    const cats = D.categories;
-    const STEP = 17;             // degrees between cards
-    const CARD_H = 84;
-    const R = CARD_H / (2 * Math.tan((STEP / 2) * Math.PI / 180));
-
-    const cards = cats.map((c, i) => {
-      const el = document.createElement("a");
-      el.className = "card";
-      el.href = `gallery.html?c=${encodeURIComponent(c.slug)}`;
-      el.innerHTML = (c.parent ? `<small>${c.parent}</small>` : "") +
-        `<span>${c.name}</span><span class="count">${c.photos.length} photos</span>`;
-      el.addEventListener("click", (e) => {
-        if (moved > 6) { e.preventDefault(); return; }
-        if (Math.round(pos) !== i) { e.preventDefault(); target = i; }
-      });
-      wheel.appendChild(el);
-      return el;
-    });
-
-    const clamp = (v) => Math.max(0, Math.min(cats.length - 1, v));
-    let pos = 0, target = 0, raf = null, moved = 0;
-
-    // Start on the current gallery's folder when opened from a gallery page
-    const cur = new URLSearchParams(location.search).get("c");
-    const curIdx = cats.findIndex((c) => c.slug === cur);
-    if (curIdx >= 0) pos = target = curIdx;
-
-    function render() {
-      const near = Math.round(pos);
-      cards.forEach((el, i) => {
-        const d = i - pos;
-        const a = -d * STEP;
-        if (Math.abs(a) > 95) { el.style.visibility = "hidden"; return; }
-        el.style.visibility = "";
-        el.style.transform = `translateZ(${-R}px) rotateX(${a}deg) translateZ(${R}px)`;
-        el.style.opacity = String(Math.max(0, 1 - Math.abs(d) * 0.13));
-        el.classList.toggle("current", i === near);
-      });
-    }
-    function tick() {
-      pos += (target - pos) * 0.16;
-      if (Math.abs(target - pos) < 0.001) pos = target;
-      render();
-      raf = pos === target ? null : requestAnimationFrame(tick);
-    }
-    const go = () => { if (!raf) raf = requestAnimationFrame(tick); };
-
-    // Mouse wheel / trackpad
-    let snapTimer;
-    rolo.addEventListener("wheel", (e) => {
-      e.preventDefault();
-      target = clamp(target + e.deltaY / 110);
-      clearTimeout(snapTimer);
-      snapTimer = setTimeout(() => { target = Math.round(target); go(); }, 140);
-      go();
-    }, { passive: false });
-
-    // Drag / touch
-    let startY = 0, startT = 0, dragging = false;
-    rolo.addEventListener("pointerdown", (e) => {
-      dragging = true; moved = 0; startY = e.clientY; startT = target;
-      rolo.classList.add("dragging");
-    });
-    window.addEventListener("pointermove", (e) => {
-      if (!dragging) return;
-      const dy = e.clientY - startY;
-      moved = Math.max(moved, Math.abs(dy));
-      target = clamp(startT - dy / (CARD_H * 0.9));
-      go();
-    });
-    window.addEventListener("pointerup", () => {
-      if (!dragging) return;
-      dragging = false; rolo.classList.remove("dragging");
-      target = Math.round(target); go();
-      setTimeout(() => (moved = 0), 0);
-    });
-
-    // Keyboard
-    document.addEventListener("keydown", (e) => {
-      if (!overlay.classList.contains("open")) return;
-      if (e.key === "Escape") close();
-      if (e.key === "ArrowDown") { target = clamp(Math.round(target) + 1); go(); e.preventDefault(); }
-      if (e.key === "ArrowUp") { target = clamp(Math.round(target) - 1); go(); e.preventDefault(); }
-      if (e.key === "Enter") location.href = cards[Math.round(pos)].href;
-    });
 
     function open() {
       overlay.classList.add("open");
       overlay.setAttribute("aria-hidden", "false");
       document.body.classList.add("menu-open");
-      render(); rolo.focus({ preventScroll: true });
     }
     function close() {
       overlay.classList.remove("open");
       overlay.setAttribute("aria-hidden", "true");
       document.body.classList.remove("menu-open");
     }
-    $(".menu-close", overlay).addEventListener("click", close);
+    overlay.querySelector(".menu-close").addEventListener("click", close);
     overlay.addEventListener("click", (e) => { if (e.target === overlay) close(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && overlay.classList.contains("open")) close(); });
     document.querySelectorAll("[data-open-menu]").forEach((b) => b.addEventListener("click", open));
-    render();
   }
 
   /* ---------------- Home carousel ---------------- */

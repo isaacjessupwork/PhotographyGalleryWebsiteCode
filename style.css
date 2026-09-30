@@ -69,43 +69,52 @@ img { display: block; max-width: 100%; }
 .dots button.active { background: #fff; }
 .caption { position: absolute; bottom: 26px; right: clamp(18px, 4vw, 48px); z-index: 6; font-size: 11px; letter-spacing: .24em; text-transform: uppercase; color: var(--muted); }
 
-/* ---------- Rolodex menu overlay ---------- */
+/* ---------- Portfolio menu overlay ---------- */
 .menu-overlay {
   position: fixed; inset: 0; z-index: 50;
   display: flex; align-items: center; justify-content: center;
-  background: rgba(8,8,8,.35);
+  padding: 90px clamp(20px, 6vw, 80px) 50px; overflow-y: auto;
+  background: rgba(8,8,8,.45);
   backdrop-filter: blur(22px) saturate(.9); -webkit-backdrop-filter: blur(22px) saturate(.9);
-  opacity: 0; visibility: hidden; transition: opacity .45s ease, visibility .45s;
+  opacity: 0; visibility: hidden; transition: opacity .4s ease, visibility .4s;
 }
 .menu-overlay.open { opacity: 1; visibility: visible; }
 .menu-close {
-  position: absolute; top: 24px; right: clamp(18px, 4vw, 48px);
+  position: fixed; top: 24px; right: clamp(18px, 4vw, 48px);
   background: none; border: 0; color: #fff; font: 400 12px var(--font); letter-spacing: .3em; text-transform: uppercase; cursor: pointer;
 }
-.menu-hint { position: absolute; bottom: 30px; left: 0; right: 0; text-align: center; font-size: 11px; letter-spacing: .3em; text-transform: uppercase; color: var(--muted); }
+.menu-panel {
+  width: min(1000px, 100%); margin: auto;
+  display: grid; grid-template-columns: 2fr 1fr; gap: clamp(32px, 6vw, 90px);
+}
+.menu-label {
+  font: 500 11px var(--font); letter-spacing: .34em; text-transform: uppercase; color: var(--muted);
+  padding-bottom: 14px; margin-bottom: 18px; border-bottom: 1px solid var(--line);
+}
+.menu-list { list-style: none; }
+.menu-places { columns: 2; column-gap: 40px; }
+.menu-list li {
+  break-inside: avoid;
+  opacity: 0; transform: translateY(10px);
+  transition: opacity .45s ease, transform .45s ease;
+  transition-delay: calc(var(--i) * 22ms);
+}
+.menu-overlay.open .menu-list li { opacity: 1; transform: none; }
+.menu-list a {
+  display: inline-block; padding: 5px 0;
+  font-family: var(--serif); font-weight: 300; font-size: clamp(24px, 2.6vw, 34px); line-height: 1.2;
+  color: rgba(255,255,255,.72); transition: color .2s, transform .25s;
+}
+.menu-list a:hover, .menu-list a:focus-visible { color: #fff; transform: translateX(6px); outline: none; }
+.menu-list a.current { color: #fff; }
+.menu-list a.current::before { content: "— "; }
 
-.rolodex {
-  position: relative; width: min(760px, 92vw); height: 70vh;
-  perspective: 900px; cursor: grab; touch-action: none; user-select: none;
-  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 22%, #000 78%, transparent 100%);
-          mask-image: linear-gradient(to bottom, transparent 0%, #000 22%, #000 78%, transparent 100%);
+@media (max-width: 760px) {
+  .menu-overlay { align-items: flex-start; }
+  .menu-panel { grid-template-columns: 1fr; gap: 36px; }
+  .menu-places { columns: 2; column-gap: 20px; }
+  .menu-list a { font-size: 22px; }
 }
-.rolodex.dragging { cursor: grabbing; }
-.rolodex-wheel { position: absolute; inset: 0; transform-style: preserve-3d; }
-.card {
-  position: absolute; left: 0; right: 0; top: 50%;
-  height: 84px; margin-top: -42px;
-  display: flex; align-items: center; justify-content: center; flex-direction: column;
-  backface-visibility: hidden; -webkit-backface-visibility: hidden;
-  font-family: var(--serif); font-weight: 300; font-size: clamp(30px, 5.4vw, 58px); letter-spacing: .03em;
-  color: rgba(255,255,255,.35); transition: color .25s;
-  cursor: pointer; white-space: nowrap;
-}
-.card small { font-family: var(--font); font-size: 10px; letter-spacing: .34em; text-transform: uppercase; margin-bottom: 4px; opacity: .7; }
-.card .count { font-family: var(--font); font-size: 10px; letter-spacing: .3em; opacity: 0; margin-top: 6px; transition: opacity .25s; }
-.card.current { color: #fff; }
-.card.current .count { opacity: .75; }
-.rolodex-line { position: absolute; left: 12%; right: 12%; top: 50%; height: 104px; margin-top: -50px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); pointer-events: none; }
 
 body.menu-open { overflow: hidden; }
 

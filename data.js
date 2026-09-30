@@ -16,7 +16,7 @@ window.PORTFOLIO = {
    "place": "Banff"
   },
   {
-   "src": "california-portfolio/dsc5849.jpg",
+   "src": "dsc5849.jpg",
    "place": "California"
   },
   {
@@ -36,7 +36,7 @@ window.PORTFOLIO = {
    "place": "Oregon"
   },
   {
-   "src": "california-portfolio/dsc3661.jpg",
+   "src": "dsc3661.jpg",
    "place": "California"
   },
   {
@@ -269,577 +269,577 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "california-portfolio/dsc3041.jpg",
+     "src": "dsc3041.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3043.jpg",
+     "src": "dsc3043.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3047.jpg",
+     "src": "dsc3047.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3060.jpg",
+     "src": "dsc3060.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3062.jpg",
+     "src": "dsc3062.jpg",
      "w": 1800,
      "h": 1248
     },
     {
-     "src": "california-portfolio/dsc3137.jpg",
+     "src": "dsc3137.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3138.jpg",
+     "src": "dsc3138.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3154.jpg",
+     "src": "dsc3154.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3156.jpg",
+     "src": "dsc3156.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3158.jpg",
+     "src": "dsc3158.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3171.jpg",
+     "src": "dsc3171.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3201.jpg",
+     "src": "dsc3201.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3506.jpg",
+     "src": "dsc3506.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3508.jpg",
+     "src": "dsc3508.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3552.jpg",
+     "src": "dsc3552.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3554.jpg",
+     "src": "dsc3554.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3556.jpg",
+     "src": "dsc3556.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3563.jpg",
+     "src": "dsc3563.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3564.jpg",
+     "src": "dsc3564.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3581.jpg",
+     "src": "dsc3581.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3661.jpg",
+     "src": "dsc3661.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3689.jpg",
+     "src": "dsc3689.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3711.jpg",
+     "src": "dsc3711.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3720.jpg",
+     "src": "dsc3720.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3749.jpg",
+     "src": "dsc3749.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3755.jpg",
+     "src": "dsc3755.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3759.jpg",
+     "src": "dsc3759.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3783.jpg",
+     "src": "dsc3783.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3785.jpg",
+     "src": "dsc3785.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3788.jpg",
+     "src": "dsc3788.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3790.jpg",
+     "src": "dsc3790.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3791.jpg",
+     "src": "dsc3791.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3792.jpg",
+     "src": "dsc3792.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3793.jpg",
+     "src": "dsc3793.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3906.jpg",
+     "src": "dsc3906.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3914.jpg",
+     "src": "dsc3914.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3917.jpg",
+     "src": "dsc3917.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3926.jpg",
+     "src": "dsc3926.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3932.jpg",
+     "src": "dsc3932.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3946.jpg",
+     "src": "dsc3946.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3949.jpg",
+     "src": "dsc3949.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3990.jpg",
+     "src": "dsc3990.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3993.jpg",
+     "src": "dsc3993.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3996.jpg",
+     "src": "dsc3996.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3997.jpg",
+     "src": "dsc3997.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3998.jpg",
+     "src": "dsc3998.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc4005.jpg",
+     "src": "dsc4005.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc4021.jpg",
+     "src": "dsc4021.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "california-portfolio/dsc4124.jpg",
+     "src": "dsc4124.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4133.jpg",
+     "src": "dsc4133.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4135.jpg",
+     "src": "dsc4135.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4140.jpg",
+     "src": "dsc4140.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc4144.jpg",
+     "src": "dsc4144.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4165.jpg",
+     "src": "dsc4165.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4167.jpg",
+     "src": "dsc4167.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4181.jpg",
+     "src": "dsc4181.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "california-portfolio/dsc4182-2.jpg",
+     "src": "dsc4182-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4182.jpg",
+     "src": "dsc4182.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4187.jpg",
+     "src": "dsc4187.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4189.jpg",
+     "src": "dsc4189.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "california-portfolio/dsc4240.jpg",
+     "src": "dsc4240.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4245.jpg",
+     "src": "dsc4245.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4591.jpg",
+     "src": "dsc4591.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4598.jpg",
+     "src": "dsc4598.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4599.jpg",
+     "src": "dsc4599.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4638.jpg",
+     "src": "dsc4638.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4649.jpg",
+     "src": "dsc4649.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4683.jpg",
+     "src": "dsc4683.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4716.jpg",
+     "src": "dsc4716.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4718.jpg",
+     "src": "dsc4718.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4727.jpg",
+     "src": "dsc4727.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4730.jpg",
+     "src": "dsc4730.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4733.jpg",
+     "src": "dsc4733.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4764.jpg",
+     "src": "dsc4764.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4772.jpg",
+     "src": "dsc4772.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4774.jpg",
+     "src": "dsc4774.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4792.jpg",
+     "src": "dsc4792.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4796.jpg",
+     "src": "dsc4796.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5134.jpg",
+     "src": "dsc5134.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5140.jpg",
+     "src": "dsc5140.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5142.jpg",
+     "src": "dsc5142.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5158.jpg",
+     "src": "dsc5158.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5241.jpg",
+     "src": "dsc5241.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5582.jpg",
+     "src": "dsc5582.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5583.jpg",
+     "src": "dsc5583.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5595.jpg",
+     "src": "dsc5595.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5611.jpg",
+     "src": "dsc5611.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5612.jpg",
+     "src": "dsc5612.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5619.jpg",
+     "src": "dsc5619.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5634.jpg",
+     "src": "dsc5634.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5635.jpg",
+     "src": "dsc5635.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5637.jpg",
+     "src": "dsc5637.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5768.jpg",
+     "src": "dsc5768.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5794.jpg",
+     "src": "dsc5794.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5799.jpg",
+     "src": "dsc5799.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5800.jpg",
+     "src": "dsc5800.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5806.jpg",
+     "src": "dsc5806.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5810.jpg",
+     "src": "dsc5810.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5816.jpg",
+     "src": "dsc5816.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5827.jpg",
+     "src": "dsc5827.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5830.jpg",
+     "src": "dsc5830.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5833.jpg",
+     "src": "dsc5833.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5835.jpg",
+     "src": "dsc5835.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5836.jpg",
+     "src": "dsc5836.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5849.jpg",
+     "src": "dsc5849.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5855.jpg",
+     "src": "dsc5855.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5858.jpg",
+     "src": "dsc5858.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5861.jpg",
+     "src": "dsc5861.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5862.jpg",
+     "src": "dsc5862.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5865.jpg",
+     "src": "dsc5865.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "california-portfolio/dsc5870.jpg",
+     "src": "dsc5870.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5936.jpg",
+     "src": "dsc5936.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5942.jpg",
+     "src": "dsc5942.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5947.jpg",
+     "src": "dsc5947.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc5950.jpg",
+     "src": "dsc5950.jpg",
      "w": 1800,
      "h": 1201
     }
