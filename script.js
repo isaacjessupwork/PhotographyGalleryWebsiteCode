@@ -4,6 +4,8 @@
 (function () {
   const D = window.PORTFOLIO;
   const $ = (s, r = document) => r.querySelector(s);
+  // Random order on every visit (Fisher–Yates shuffle)
+  const shuffle = (a) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 
   /* ---------------- Rolodex menu ---------------- */
   function buildMenu() {
@@ -130,6 +132,7 @@
     if (!hero) return;
     const dots = $(".dots");
     const cap = $(".caption");
+    shuffle(D.carousel);
     const slides = D.carousel.map((p, i) => {
       const s = document.createElement("div");
       s.className = "slide" + (i === 0 ? " active" : "");
@@ -163,6 +166,7 @@
     const cats = D.categories;
     const i = Math.max(0, cats.findIndex((c) => c.slug === slug));
     const cat = cats[i];
+    cat.photos = shuffle(cat.photos.slice());
     document.title = `${cat.name} — ${D.name}`;
     $(".gallery-head .eyebrow").textContent = cat.parent || "Portfolio";
     $(".gallery-head h1").textContent = cat.name;

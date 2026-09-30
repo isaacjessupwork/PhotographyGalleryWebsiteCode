@@ -8,11 +8,11 @@ window.PORTFOLIO = {
  },
  "carousel": [
   {
-   "src": "banff-portfolio/morainelake.jpg",
+   "src": "canada/morainelake.jpg",
    "place": "Banff"
   },
   {
-   "src": "banff-portfolio/dsc7354.jpg",
+   "src": "canada/dsc7354.jpg",
    "place": "Banff"
   },
   {
@@ -127,507 +127,137 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "banff-portfolio/c0041-00-00-05-15-still014.jpg",
+     "src": "canada/c0041-00-00-30-22-still001.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "banff-portfolio/c0041-00-00-06-15-still002.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-00-07-20-still012.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-00-08-22-still003.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-00-09-04-still011.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-00-11-18-still009.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-00-13-03-still013.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-00-22-20-still004.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-00-30-22-still001.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-01-08-13-still010.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-01-12-05-still005.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-01-28-22-still006.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-01-29-07-still007.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/c0041-00-03-11-02-still008.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "banff-portfolio/dsc6608.jpg",
+     "src": "canada/dsc6608.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6613.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc6614.jpg",
+     "src": "canada/dsc6614.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "banff-portfolio/dsc6638.jpg",
+     "src": "canada/dsc6638.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6641.jpg",
+     "src": "canada/dsc6703.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6685.jpg",
+     "src": "canada/dsc6704.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6686.jpg",
+     "src": "canada/dsc6711.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6691.jpg",
+     "src": "canada/dsc6717.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6692-1.jpg",
+     "src": "canada/dsc6725.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6692.jpg",
+     "src": "canada/dsc6727.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6693-1.jpg",
+     "src": "canada/dsc7237.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6693.jpg",
+     "src": "canada/dsc7247.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6696.jpg",
+     "src": "canada/dsc7301.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6703.jpg",
+     "src": "canada/dsc7354.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6704.jpg",
+     "src": "canada/dsc7381.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6711.jpg",
+     "src": "canada/dsc7388.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6717.jpg",
+     "src": "canada/dsc7389.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6723.jpg",
+     "src": "canada/dsc7407.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6724.jpg",
+     "src": "canada/dsc7420.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6725.jpg",
+     "src": "canada/dsc7430.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc6727.jpg",
+     "src": "canada/dsc7500.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc7237.jpg",
+     "src": "canada/dsc7553.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc7239.jpg",
+     "src": "canada/dsc7566.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc7240.jpg",
+     "src": "canada/dsc7576.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc7241.jpg",
+     "src": "canada/dsc7587.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc7243.jpg",
+     "src": "canada/dsc7590.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "banff-portfolio/dsc7247.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7252.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7262.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7265.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7268.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7269.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7274.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7283-1.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7283.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7288.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7289.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7293.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7301.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7354.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7372-1.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7372.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7381.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7386.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7388.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7389.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7407.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7420.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7430.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7440.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7484-1.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7484.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7486-1.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7486.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7500.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7506.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7507.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7508.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7512.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7513.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7518.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7519.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7521.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7523.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7524.jpg",
-     "w": 1201,
-     "h": 1800
-    },
-    {
-     "src": "banff-portfolio/dsc7526.jpg",
-     "w": 1201,
-     "h": 1800
-    },
-    {
-     "src": "banff-portfolio/dsc7527.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7529.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7530.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7532.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7534.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7536.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7541-1.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7541.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7544.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7547.jpg",
-     "w": 1201,
-     "h": 1800
-    },
-    {
-     "src": "banff-portfolio/dsc7549.jpg",
-     "w": 1201,
-     "h": 1800
-    },
-    {
-     "src": "banff-portfolio/dsc7551.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7553.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7554.jpg",
-     "w": 1201,
-     "h": 1800
-    },
-    {
-     "src": "banff-portfolio/dsc7563.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7564.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7566.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7576.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7587.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/dsc7590.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "banff-portfolio/morainelake.jpg",
+     "src": "canada/morainelake.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -638,11 +268,6 @@ window.PORTFOLIO = {
    "name": "California",
    "parent": null,
    "photos": [
-    {
-     "src": "california-portfolio/c0006-00-01-46-16-still002.jpg",
-     "w": 1800,
-     "h": 1013
-    },
     {
      "src": "california-portfolio/dsc3041.jpg",
      "w": 1201,
@@ -659,11 +284,6 @@ window.PORTFOLIO = {
      "h": 1800
     },
     {
-     "src": "california-portfolio/dsc3049.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "california-portfolio/dsc3060.jpg",
      "w": 1201,
      "h": 1800
@@ -672,16 +292,6 @@ window.PORTFOLIO = {
      "src": "california-portfolio/dsc3062.jpg",
      "w": 1800,
      "h": 1248
-    },
-    {
-     "src": "california-portfolio/dsc3085.jpg",
-     "w": 1201,
-     "h": 1800
-    },
-    {
-     "src": "california-portfolio/dsc3086.jpg",
-     "w": 1201,
-     "h": 1800
     },
     {
      "src": "california-portfolio/dsc3137.jpg",
@@ -709,24 +319,9 @@ window.PORTFOLIO = {
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc3170.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "california-portfolio/dsc3171.jpg",
      "w": 1201,
      "h": 1800
-    },
-    {
-     "src": "california-portfolio/dsc3192.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "california-portfolio/dsc3196.jpg",
-     "w": 1800,
-     "h": 1201
     },
     {
      "src": "california-portfolio/dsc3201.jpg",
@@ -1009,11 +604,6 @@ window.PORTFOLIO = {
      "h": 1201
     },
     {
-     "src": "california-portfolio/dsc4677.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "california-portfolio/dsc4683.jpg",
      "w": 1800,
      "h": 1201
@@ -1250,153 +840,6 @@ window.PORTFOLIO = {
     },
     {
      "src": "california-portfolio/dsc5950.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "california-portfolio/dsc5959.jpg",
-     "w": 1800,
-     "h": 1201
-    }
-   ]
-  },
-  {
-   "slug": "canada",
-   "name": "Canada",
-   "parent": null,
-   "photos": [
-    {
-     "src": "canada/c0041-00-00-30-22-still001.jpg",
-     "w": 1800,
-     "h": 1013
-    },
-    {
-     "src": "canada/dsc6608.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc6614.jpg",
-     "w": 1800,
-     "h": 1200
-    },
-    {
-     "src": "canada/dsc6638.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc6703.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc6704.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc6711.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc6717.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc6725.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc6727.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7237.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7247.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7301.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7354.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7381.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7388.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7389.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7407.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7420.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7430.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7500.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7553.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7566.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7576.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7587.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/dsc7590.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "canada/morainelake.jpg",
      "w": 1800,
      "h": 1201
     }

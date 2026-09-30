@@ -56,12 +56,12 @@ img { display: block; max-width: 100%; }
   text-shadow: 0 1px 12px rgba(0,0,0,.5);
 }
 .explore-btn {
-  margin-top: 42px; width: 120px; height: 120px; border-radius: 50%;
-  border: 1px solid rgba(255,255,255,.85); background: rgba(255,255,255,.06);
-  color: var(--fg); font: 500 11px/1 var(--font); letter-spacing: 0.32em; text-transform: uppercase;
+  margin-top: 64px; width: 74px; height: 74px; border-radius: 50%;
+  border: 1px solid rgba(255,255,255,.75); background: rgba(255,255,255,.05);
+  color: var(--fg); font: 500 9px/1 var(--font); letter-spacing: 0.28em; text-transform: uppercase;
   cursor: pointer; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
   transition: transform .35s ease, background .35s ease;
-  padding-left: .32em;
+  padding-left: .28em;
 }
 .explore-btn:hover { transform: scale(1.07); background: rgba(255,255,255,.16); }
 .dots { position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%); z-index: 6; display: flex; gap: 10px; }
@@ -152,7 +152,7 @@ body.menu-open { overflow: hidden; }
   .site-header { padding: 18px 16px; }
   .brand { font-size: 12px; letter-spacing: .24em; }
   .nav { gap: 14px; font-size: 11px; letter-spacing: .16em; }
-  .explore-btn { width: 96px; height: 96px; }
+  .explore-btn { width: 64px; height: 64px; margin-top: 48px; }
   .caption { display: none; }
   :root { --gap: 4px; }
 }
