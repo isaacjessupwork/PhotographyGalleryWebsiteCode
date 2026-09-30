@@ -105,7 +105,7 @@ img { display: block; max-width: 100%; }
 .card .count { font-family: var(--font); font-size: 10px; letter-spacing: .3em; opacity: 0; margin-top: 6px; transition: opacity .25s; }
 .card.current { color: #fff; }
 .card.current .count { opacity: .75; }
-.rolodex-line { position: absolute; left: 12%; right: 12%; top: 50%; height: 88px; margin-top: -44px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); pointer-events: none; }
+.rolodex-line { position: absolute; left: 12%; right: 12%; top: 50%; height: 104px; margin-top: -50px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); pointer-events: none; }
 
 body.menu-open { overflow: hidden; }
 

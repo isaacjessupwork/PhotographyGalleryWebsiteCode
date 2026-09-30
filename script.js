@@ -54,7 +54,7 @@
         const d = i - pos;
         const a = -d * STEP;
         if (Math.abs(a) > 95) { el.style.visibility = "hidden"; return; }
-        el.style.visibility = "visible";
+        el.style.visibility = "";
         el.style.transform = `translateZ(${-R}px) rotateX(${a}deg) translateZ(${R}px)`;
         el.style.opacity = String(Math.max(0, 1 - Math.abs(d) * 0.13));
         el.classList.toggle("current", i === near);

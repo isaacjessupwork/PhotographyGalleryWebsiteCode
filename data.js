@@ -8,43 +8,43 @@ window.PORTFOLIO = {
  },
  "carousel": [
   {
-   "src": "images/banff-portfolio/morainelake.jpg",
+   "src": "banff-portfolio/morainelake.jpg",
    "place": "Banff"
   },
   {
-   "src": "images/banff-portfolio/dsc7354.jpg",
+   "src": "banff-portfolio/dsc7354.jpg",
    "place": "Banff"
   },
   {
-   "src": "images/california-portfolio/dsc5849.jpg",
+   "src": "california-portfolio/dsc5849.jpg",
    "place": "California"
   },
   {
-   "src": "images/colorado/dsc2841.jpg",
+   "src": "colorado/dsc2841.jpg",
    "place": "Colorado"
   },
   {
-   "src": "images/guatemala/dsc4990.jpg",
+   "src": "guatemala/dsc4990.jpg",
    "place": "Guatemala"
   },
   {
-   "src": "images/japan/dsc0046.jpg",
+   "src": "japan/dsc0046.jpg",
    "place": "Japan"
   },
   {
-   "src": "images/oregon/dsc6214.jpg",
+   "src": "oregon/dsc6214.jpg",
    "place": "Oregon"
   },
   {
-   "src": "images/california-portfolio/dsc3661.jpg",
+   "src": "california-portfolio/dsc3661.jpg",
    "place": "California"
   },
   {
-   "src": "images/washington/dsc7790.jpg",
+   "src": "washington/dsc7790.jpg",
    "place": "Washington"
   },
   {
-   "src": "images/wyoming/dsc0453.jpg",
+   "src": "wyoming/dsc0453.jpg",
    "place": "Wyoming"
   }
  ],
@@ -55,67 +55,67 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/alaska/dsc06421-copy.jpg",
+     "src": "alaska/dsc06421-copy.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc07303.jpg",
+     "src": "alaska/dsc07303.jpg",
      "w": 1800,
      "h": 856
     },
     {
-     "src": "images/alaska/dsc1138.jpg",
+     "src": "alaska/dsc1138.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1144.jpg",
+     "src": "alaska/dsc1144.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1145.jpg",
+     "src": "alaska/dsc1145.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/alaska/dsc1148.jpg",
+     "src": "alaska/dsc1148.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1159.jpg",
+     "src": "alaska/dsc1159.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1162.jpg",
+     "src": "alaska/dsc1162.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1170.jpg",
+     "src": "alaska/dsc1170.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1178.jpg",
+     "src": "alaska/dsc1178.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1180.jpg",
+     "src": "alaska/dsc1180.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/dsc1187.jpg",
+     "src": "alaska/dsc1187.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/alaska/untitled-1.jpg",
+     "src": "alaska/untitled-1.jpg",
      "w": 1215,
      "h": 1800
     }
@@ -127,507 +127,507 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/banff-portfolio/c0041-00-00-05-15-still014.jpg",
+     "src": "banff-portfolio/c0041-00-00-05-15-still014.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-06-15-still002.jpg",
+     "src": "banff-portfolio/c0041-00-00-06-15-still002.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-07-20-still012.jpg",
+     "src": "banff-portfolio/c0041-00-00-07-20-still012.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-08-22-still003.jpg",
+     "src": "banff-portfolio/c0041-00-00-08-22-still003.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-09-04-still011.jpg",
+     "src": "banff-portfolio/c0041-00-00-09-04-still011.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-11-18-still009.jpg",
+     "src": "banff-portfolio/c0041-00-00-11-18-still009.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-13-03-still013.jpg",
+     "src": "banff-portfolio/c0041-00-00-13-03-still013.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-22-20-still004.jpg",
+     "src": "banff-portfolio/c0041-00-00-22-20-still004.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-00-30-22-still001.jpg",
+     "src": "banff-portfolio/c0041-00-00-30-22-still001.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-01-08-13-still010.jpg",
+     "src": "banff-portfolio/c0041-00-01-08-13-still010.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-01-12-05-still005.jpg",
+     "src": "banff-portfolio/c0041-00-01-12-05-still005.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-01-28-22-still006.jpg",
+     "src": "banff-portfolio/c0041-00-01-28-22-still006.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-01-29-07-still007.jpg",
+     "src": "banff-portfolio/c0041-00-01-29-07-still007.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/c0041-00-03-11-02-still008.jpg",
+     "src": "banff-portfolio/c0041-00-03-11-02-still008.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/banff-portfolio/dsc6608.jpg",
+     "src": "banff-portfolio/dsc6608.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6613.jpg",
+     "src": "banff-portfolio/dsc6613.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6614.jpg",
+     "src": "banff-portfolio/dsc6614.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/banff-portfolio/dsc6638.jpg",
+     "src": "banff-portfolio/dsc6638.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6641.jpg",
+     "src": "banff-portfolio/dsc6641.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6685.jpg",
+     "src": "banff-portfolio/dsc6685.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6686.jpg",
+     "src": "banff-portfolio/dsc6686.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6691.jpg",
+     "src": "banff-portfolio/dsc6691.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6692-1.jpg",
+     "src": "banff-portfolio/dsc6692-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6692.jpg",
+     "src": "banff-portfolio/dsc6692.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6693-1.jpg",
+     "src": "banff-portfolio/dsc6693-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6693.jpg",
+     "src": "banff-portfolio/dsc6693.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6696.jpg",
+     "src": "banff-portfolio/dsc6696.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6703.jpg",
+     "src": "banff-portfolio/dsc6703.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6704.jpg",
+     "src": "banff-portfolio/dsc6704.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6711.jpg",
+     "src": "banff-portfolio/dsc6711.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6717.jpg",
+     "src": "banff-portfolio/dsc6717.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6723.jpg",
+     "src": "banff-portfolio/dsc6723.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6724.jpg",
+     "src": "banff-portfolio/dsc6724.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6725.jpg",
+     "src": "banff-portfolio/dsc6725.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc6727.jpg",
+     "src": "banff-portfolio/dsc6727.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7237.jpg",
+     "src": "banff-portfolio/dsc7237.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7239.jpg",
+     "src": "banff-portfolio/dsc7239.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7240.jpg",
+     "src": "banff-portfolio/dsc7240.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7241.jpg",
+     "src": "banff-portfolio/dsc7241.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7243.jpg",
+     "src": "banff-portfolio/dsc7243.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7247.jpg",
+     "src": "banff-portfolio/dsc7247.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7252.jpg",
+     "src": "banff-portfolio/dsc7252.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7262.jpg",
+     "src": "banff-portfolio/dsc7262.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7265.jpg",
+     "src": "banff-portfolio/dsc7265.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7268.jpg",
+     "src": "banff-portfolio/dsc7268.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7269.jpg",
+     "src": "banff-portfolio/dsc7269.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7274.jpg",
+     "src": "banff-portfolio/dsc7274.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7283-1.jpg",
+     "src": "banff-portfolio/dsc7283-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7283.jpg",
+     "src": "banff-portfolio/dsc7283.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7288.jpg",
+     "src": "banff-portfolio/dsc7288.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7289.jpg",
+     "src": "banff-portfolio/dsc7289.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7293.jpg",
+     "src": "banff-portfolio/dsc7293.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7301.jpg",
+     "src": "banff-portfolio/dsc7301.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7354.jpg",
+     "src": "banff-portfolio/dsc7354.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7372-1.jpg",
+     "src": "banff-portfolio/dsc7372-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7372.jpg",
+     "src": "banff-portfolio/dsc7372.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7381.jpg",
+     "src": "banff-portfolio/dsc7381.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7386.jpg",
+     "src": "banff-portfolio/dsc7386.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7388.jpg",
+     "src": "banff-portfolio/dsc7388.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7389.jpg",
+     "src": "banff-portfolio/dsc7389.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7407.jpg",
+     "src": "banff-portfolio/dsc7407.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7420.jpg",
+     "src": "banff-portfolio/dsc7420.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7430.jpg",
+     "src": "banff-portfolio/dsc7430.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7440.jpg",
+     "src": "banff-portfolio/dsc7440.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7484-1.jpg",
+     "src": "banff-portfolio/dsc7484-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7484.jpg",
+     "src": "banff-portfolio/dsc7484.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7486-1.jpg",
+     "src": "banff-portfolio/dsc7486-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7486.jpg",
+     "src": "banff-portfolio/dsc7486.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7500.jpg",
+     "src": "banff-portfolio/dsc7500.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7506.jpg",
+     "src": "banff-portfolio/dsc7506.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7507.jpg",
+     "src": "banff-portfolio/dsc7507.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7508.jpg",
+     "src": "banff-portfolio/dsc7508.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7512.jpg",
+     "src": "banff-portfolio/dsc7512.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7513.jpg",
+     "src": "banff-portfolio/dsc7513.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7518.jpg",
+     "src": "banff-portfolio/dsc7518.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7519.jpg",
+     "src": "banff-portfolio/dsc7519.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7521.jpg",
+     "src": "banff-portfolio/dsc7521.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7523.jpg",
+     "src": "banff-portfolio/dsc7523.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7524.jpg",
+     "src": "banff-portfolio/dsc7524.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/banff-portfolio/dsc7526.jpg",
+     "src": "banff-portfolio/dsc7526.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/banff-portfolio/dsc7527.jpg",
+     "src": "banff-portfolio/dsc7527.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7529.jpg",
+     "src": "banff-portfolio/dsc7529.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7530.jpg",
+     "src": "banff-portfolio/dsc7530.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7532.jpg",
+     "src": "banff-portfolio/dsc7532.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7534.jpg",
+     "src": "banff-portfolio/dsc7534.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7536.jpg",
+     "src": "banff-portfolio/dsc7536.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7541-1.jpg",
+     "src": "banff-portfolio/dsc7541-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7541.jpg",
+     "src": "banff-portfolio/dsc7541.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7544.jpg",
+     "src": "banff-portfolio/dsc7544.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7547.jpg",
+     "src": "banff-portfolio/dsc7547.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/banff-portfolio/dsc7549.jpg",
+     "src": "banff-portfolio/dsc7549.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/banff-portfolio/dsc7551.jpg",
+     "src": "banff-portfolio/dsc7551.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7553.jpg",
+     "src": "banff-portfolio/dsc7553.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7554.jpg",
+     "src": "banff-portfolio/dsc7554.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/banff-portfolio/dsc7563.jpg",
+     "src": "banff-portfolio/dsc7563.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7564.jpg",
+     "src": "banff-portfolio/dsc7564.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7566.jpg",
+     "src": "banff-portfolio/dsc7566.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7576.jpg",
+     "src": "banff-portfolio/dsc7576.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7587.jpg",
+     "src": "banff-portfolio/dsc7587.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/dsc7590.jpg",
+     "src": "banff-portfolio/dsc7590.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/banff-portfolio/morainelake.jpg",
+     "src": "banff-portfolio/morainelake.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -639,622 +639,622 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/california-portfolio/c0006-00-01-46-16-still002.jpg",
+     "src": "california-portfolio/c0006-00-01-46-16-still002.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/california-portfolio/dsc3041.jpg",
+     "src": "california-portfolio/dsc3041.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3043.jpg",
+     "src": "california-portfolio/dsc3043.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3047.jpg",
+     "src": "california-portfolio/dsc3047.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3049.jpg",
+     "src": "california-portfolio/dsc3049.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3060.jpg",
+     "src": "california-portfolio/dsc3060.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3062.jpg",
+     "src": "california-portfolio/dsc3062.jpg",
      "w": 1800,
      "h": 1248
     },
     {
-     "src": "images/california-portfolio/dsc3085.jpg",
+     "src": "california-portfolio/dsc3085.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3086.jpg",
+     "src": "california-portfolio/dsc3086.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3137.jpg",
+     "src": "california-portfolio/dsc3137.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3138.jpg",
+     "src": "california-portfolio/dsc3138.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3154.jpg",
+     "src": "california-portfolio/dsc3154.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3156.jpg",
+     "src": "california-portfolio/dsc3156.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3158.jpg",
+     "src": "california-portfolio/dsc3158.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3170.jpg",
+     "src": "california-portfolio/dsc3170.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3171.jpg",
+     "src": "california-portfolio/dsc3171.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3192.jpg",
+     "src": "california-portfolio/dsc3192.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3196.jpg",
+     "src": "california-portfolio/dsc3196.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3201.jpg",
+     "src": "california-portfolio/dsc3201.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3506.jpg",
+     "src": "california-portfolio/dsc3506.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3508.jpg",
+     "src": "california-portfolio/dsc3508.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3552.jpg",
+     "src": "california-portfolio/dsc3552.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3554.jpg",
+     "src": "california-portfolio/dsc3554.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3556.jpg",
+     "src": "california-portfolio/dsc3556.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3563.jpg",
+     "src": "california-portfolio/dsc3563.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3564.jpg",
+     "src": "california-portfolio/dsc3564.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3581.jpg",
+     "src": "california-portfolio/dsc3581.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3661.jpg",
+     "src": "california-portfolio/dsc3661.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3689.jpg",
+     "src": "california-portfolio/dsc3689.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3711.jpg",
+     "src": "california-portfolio/dsc3711.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3720.jpg",
+     "src": "california-portfolio/dsc3720.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3749.jpg",
+     "src": "california-portfolio/dsc3749.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3755.jpg",
+     "src": "california-portfolio/dsc3755.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3759.jpg",
+     "src": "california-portfolio/dsc3759.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3783.jpg",
+     "src": "california-portfolio/dsc3783.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3785.jpg",
+     "src": "california-portfolio/dsc3785.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3788.jpg",
+     "src": "california-portfolio/dsc3788.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3790.jpg",
+     "src": "california-portfolio/dsc3790.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3791.jpg",
+     "src": "california-portfolio/dsc3791.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3792.jpg",
+     "src": "california-portfolio/dsc3792.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3793.jpg",
+     "src": "california-portfolio/dsc3793.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3906.jpg",
+     "src": "california-portfolio/dsc3906.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3914.jpg",
+     "src": "california-portfolio/dsc3914.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3917.jpg",
+     "src": "california-portfolio/dsc3917.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3926.jpg",
+     "src": "california-portfolio/dsc3926.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3932.jpg",
+     "src": "california-portfolio/dsc3932.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3946.jpg",
+     "src": "california-portfolio/dsc3946.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3949.jpg",
+     "src": "california-portfolio/dsc3949.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3990.jpg",
+     "src": "california-portfolio/dsc3990.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3993.jpg",
+     "src": "california-portfolio/dsc3993.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3996.jpg",
+     "src": "california-portfolio/dsc3996.jpg",
      "w": 1200,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc3997.jpg",
+     "src": "california-portfolio/dsc3997.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc3998.jpg",
+     "src": "california-portfolio/dsc3998.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc4005.jpg",
+     "src": "california-portfolio/dsc4005.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc4021.jpg",
+     "src": "california-portfolio/dsc4021.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/california-portfolio/dsc4124.jpg",
+     "src": "california-portfolio/dsc4124.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4133.jpg",
+     "src": "california-portfolio/dsc4133.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4135.jpg",
+     "src": "california-portfolio/dsc4135.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4140.jpg",
+     "src": "california-portfolio/dsc4140.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/california-portfolio/dsc4144.jpg",
+     "src": "california-portfolio/dsc4144.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4165.jpg",
+     "src": "california-portfolio/dsc4165.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4167.jpg",
+     "src": "california-portfolio/dsc4167.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4181.jpg",
+     "src": "california-portfolio/dsc4181.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/california-portfolio/dsc4182-2.jpg",
+     "src": "california-portfolio/dsc4182-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4182.jpg",
+     "src": "california-portfolio/dsc4182.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4187.jpg",
+     "src": "california-portfolio/dsc4187.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4189.jpg",
+     "src": "california-portfolio/dsc4189.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/california-portfolio/dsc4240.jpg",
+     "src": "california-portfolio/dsc4240.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4245.jpg",
+     "src": "california-portfolio/dsc4245.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4591.jpg",
+     "src": "california-portfolio/dsc4591.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4598.jpg",
+     "src": "california-portfolio/dsc4598.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4599.jpg",
+     "src": "california-portfolio/dsc4599.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4638.jpg",
+     "src": "california-portfolio/dsc4638.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4649.jpg",
+     "src": "california-portfolio/dsc4649.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4677.jpg",
+     "src": "california-portfolio/dsc4677.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4683.jpg",
+     "src": "california-portfolio/dsc4683.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4716.jpg",
+     "src": "california-portfolio/dsc4716.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4718.jpg",
+     "src": "california-portfolio/dsc4718.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4727.jpg",
+     "src": "california-portfolio/dsc4727.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4730.jpg",
+     "src": "california-portfolio/dsc4730.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4733.jpg",
+     "src": "california-portfolio/dsc4733.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4764.jpg",
+     "src": "california-portfolio/dsc4764.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4772.jpg",
+     "src": "california-portfolio/dsc4772.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4774.jpg",
+     "src": "california-portfolio/dsc4774.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4792.jpg",
+     "src": "california-portfolio/dsc4792.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc4796.jpg",
+     "src": "california-portfolio/dsc4796.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5134.jpg",
+     "src": "california-portfolio/dsc5134.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5140.jpg",
+     "src": "california-portfolio/dsc5140.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5142.jpg",
+     "src": "california-portfolio/dsc5142.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5158.jpg",
+     "src": "california-portfolio/dsc5158.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5241.jpg",
+     "src": "california-portfolio/dsc5241.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5582.jpg",
+     "src": "california-portfolio/dsc5582.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5583.jpg",
+     "src": "california-portfolio/dsc5583.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5595.jpg",
+     "src": "california-portfolio/dsc5595.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5611.jpg",
+     "src": "california-portfolio/dsc5611.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5612.jpg",
+     "src": "california-portfolio/dsc5612.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5619.jpg",
+     "src": "california-portfolio/dsc5619.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5634.jpg",
+     "src": "california-portfolio/dsc5634.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5635.jpg",
+     "src": "california-portfolio/dsc5635.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5637.jpg",
+     "src": "california-portfolio/dsc5637.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5768.jpg",
+     "src": "california-portfolio/dsc5768.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5794.jpg",
+     "src": "california-portfolio/dsc5794.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5799.jpg",
+     "src": "california-portfolio/dsc5799.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5800.jpg",
+     "src": "california-portfolio/dsc5800.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5806.jpg",
+     "src": "california-portfolio/dsc5806.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5810.jpg",
+     "src": "california-portfolio/dsc5810.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5816.jpg",
+     "src": "california-portfolio/dsc5816.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5827.jpg",
+     "src": "california-portfolio/dsc5827.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5830.jpg",
+     "src": "california-portfolio/dsc5830.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5833.jpg",
+     "src": "california-portfolio/dsc5833.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5835.jpg",
+     "src": "california-portfolio/dsc5835.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5836.jpg",
+     "src": "california-portfolio/dsc5836.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5849.jpg",
+     "src": "california-portfolio/dsc5849.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5855.jpg",
+     "src": "california-portfolio/dsc5855.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5858.jpg",
+     "src": "california-portfolio/dsc5858.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5861.jpg",
+     "src": "california-portfolio/dsc5861.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5862.jpg",
+     "src": "california-portfolio/dsc5862.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5865.jpg",
+     "src": "california-portfolio/dsc5865.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/california-portfolio/dsc5870.jpg",
+     "src": "california-portfolio/dsc5870.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5936.jpg",
+     "src": "california-portfolio/dsc5936.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5942.jpg",
+     "src": "california-portfolio/dsc5942.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5947.jpg",
+     "src": "california-portfolio/dsc5947.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5950.jpg",
+     "src": "california-portfolio/dsc5950.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/california-portfolio/dsc5959.jpg",
+     "src": "california-portfolio/dsc5959.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -1266,137 +1266,137 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/canada/c0041-00-00-30-22-still001.jpg",
+     "src": "canada/c0041-00-00-30-22-still001.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/canada/dsc6608.jpg",
+     "src": "canada/dsc6608.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc6614.jpg",
+     "src": "canada/dsc6614.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/canada/dsc6638.jpg",
+     "src": "canada/dsc6638.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc6703.jpg",
+     "src": "canada/dsc6703.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc6704.jpg",
+     "src": "canada/dsc6704.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc6711.jpg",
+     "src": "canada/dsc6711.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc6717.jpg",
+     "src": "canada/dsc6717.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc6725.jpg",
+     "src": "canada/dsc6725.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc6727.jpg",
+     "src": "canada/dsc6727.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7237.jpg",
+     "src": "canada/dsc7237.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7247.jpg",
+     "src": "canada/dsc7247.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7301.jpg",
+     "src": "canada/dsc7301.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7354.jpg",
+     "src": "canada/dsc7354.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7381.jpg",
+     "src": "canada/dsc7381.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7388.jpg",
+     "src": "canada/dsc7388.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7389.jpg",
+     "src": "canada/dsc7389.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7407.jpg",
+     "src": "canada/dsc7407.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7420.jpg",
+     "src": "canada/dsc7420.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7430.jpg",
+     "src": "canada/dsc7430.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7500.jpg",
+     "src": "canada/dsc7500.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7553.jpg",
+     "src": "canada/dsc7553.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7566.jpg",
+     "src": "canada/dsc7566.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7576.jpg",
+     "src": "canada/dsc7576.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7587.jpg",
+     "src": "canada/dsc7587.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/dsc7590.jpg",
+     "src": "canada/dsc7590.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/canada/morainelake.jpg",
+     "src": "canada/morainelake.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -1408,477 +1408,477 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/colorado/blplandscape1.jpg",
+     "src": "colorado/blplandscape1.jpg",
      "w": 1800,
      "h": 750
     },
     {
-     "src": "images/colorado/cabin2.jpg",
+     "src": "colorado/cabin2.jpg",
      "w": 1350,
      "h": 1687
     },
     {
-     "src": "images/colorado/chicken.jpg",
+     "src": "colorado/chicken.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/deermb.jpg",
+     "src": "colorado/deermb.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc0074.jpg",
+     "src": "colorado/dsc0074.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc0093-2.jpg",
+     "src": "colorado/dsc0093-2.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc0093.jpg",
+     "src": "colorado/dsc0093.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc0133-1.jpg",
+     "src": "colorado/dsc0133-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc0133.jpg",
+     "src": "colorado/dsc0133.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc03595.jpg",
+     "src": "colorado/dsc03595.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc03615.jpg",
+     "src": "colorado/dsc03615.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc03768.jpg",
+     "src": "colorado/dsc03768.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc03772.jpg",
+     "src": "colorado/dsc03772.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc0415.jpg",
+     "src": "colorado/dsc0415.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc2552.jpg",
+     "src": "colorado/dsc2552.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2555.jpg",
+     "src": "colorado/dsc2555.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2557.jpg",
+     "src": "colorado/dsc2557.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2565.jpg",
+     "src": "colorado/dsc2565.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc2566.jpg",
+     "src": "colorado/dsc2566.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2567.jpg",
+     "src": "colorado/dsc2567.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2568.jpg",
+     "src": "colorado/dsc2568.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2633.jpg",
+     "src": "colorado/dsc2633.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2635.jpg",
+     "src": "colorado/dsc2635.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2648.jpg",
+     "src": "colorado/dsc2648.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2651.jpg",
+     "src": "colorado/dsc2651.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2656.jpg",
+     "src": "colorado/dsc2656.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2657.jpg",
+     "src": "colorado/dsc2657.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2659.jpg",
+     "src": "colorado/dsc2659.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc2668.jpg",
+     "src": "colorado/dsc2668.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/colorado/dsc2670.jpg",
+     "src": "colorado/dsc2670.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2677.jpg",
+     "src": "colorado/dsc2677.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2678.jpg",
+     "src": "colorado/dsc2678.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2690.jpg",
+     "src": "colorado/dsc2690.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2692.jpg",
+     "src": "colorado/dsc2692.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2693.jpg",
+     "src": "colorado/dsc2693.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2694.jpg",
+     "src": "colorado/dsc2694.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2711.jpg",
+     "src": "colorado/dsc2711.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2727.jpg",
+     "src": "colorado/dsc2727.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2745.jpg",
+     "src": "colorado/dsc2745.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2749.jpg",
+     "src": "colorado/dsc2749.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2751.jpg",
+     "src": "colorado/dsc2751.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2762.jpg",
+     "src": "colorado/dsc2762.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2769-2.jpg",
+     "src": "colorado/dsc2769-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2769.jpg",
+     "src": "colorado/dsc2769.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2770-2.jpg",
+     "src": "colorado/dsc2770-2.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2770.jpg",
+     "src": "colorado/dsc2770.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2771.jpg",
+     "src": "colorado/dsc2771.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2772.jpg",
+     "src": "colorado/dsc2772.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2777-2.jpg",
+     "src": "colorado/dsc2777-2.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2777.jpg",
+     "src": "colorado/dsc2777.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2783.jpg",
+     "src": "colorado/dsc2783.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2786.jpg",
+     "src": "colorado/dsc2786.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2790.jpg",
+     "src": "colorado/dsc2790.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2793.jpg",
+     "src": "colorado/dsc2793.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2799.jpg",
+     "src": "colorado/dsc2799.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2801.jpg",
+     "src": "colorado/dsc2801.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2807.jpg",
+     "src": "colorado/dsc2807.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2811.jpg",
+     "src": "colorado/dsc2811.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2821.jpg",
+     "src": "colorado/dsc2821.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2824.jpg",
+     "src": "colorado/dsc2824.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2831.jpg",
+     "src": "colorado/dsc2831.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc2834.jpg",
+     "src": "colorado/dsc2834.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2840.jpg",
+     "src": "colorado/dsc2840.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2841.jpg",
+     "src": "colorado/dsc2841.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2846.jpg",
+     "src": "colorado/dsc2846.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2849-2.jpg",
+     "src": "colorado/dsc2849-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2849.jpg",
+     "src": "colorado/dsc2849.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2850-2.jpg",
+     "src": "colorado/dsc2850-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2850.jpg",
+     "src": "colorado/dsc2850.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2878.jpg",
+     "src": "colorado/dsc2878.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2879.jpg",
+     "src": "colorado/dsc2879.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2880.jpg",
+     "src": "colorado/dsc2880.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2883.jpg",
+     "src": "colorado/dsc2883.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2885.jpg",
+     "src": "colorado/dsc2885.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/colorado/dsc2887-2.jpg",
+     "src": "colorado/dsc2887-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2887-3.jpg",
+     "src": "colorado/dsc2887-3.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2887.jpg",
+     "src": "colorado/dsc2887.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2893.jpg",
+     "src": "colorado/dsc2893.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2908.jpg",
+     "src": "colorado/dsc2908.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc2912.jpg",
+     "src": "colorado/dsc2912.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/dsc7793.jpg",
+     "src": "colorado/dsc7793.jpg",
      "w": 1800,
      "h": 1125
     },
     {
-     "src": "images/colorado/dsc7902.jpg",
+     "src": "colorado/dsc7902.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/dsc8441.jpg",
+     "src": "colorado/dsc8441.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/colorado/flowerscorrect.jpg",
+     "src": "colorado/flowerscorrect.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/ice.jpg",
+     "src": "colorado/ice.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/img20211231-22381313.jpg",
+     "src": "colorado/img20211231-22381313.jpg",
      "w": 1664,
      "h": 1060
     },
     {
-     "src": "images/colorado/landscape1-copy.jpg",
+     "src": "colorado/landscape1-copy.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/colorado/maroonbells1.jpg",
+     "src": "colorado/maroonbells1.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/p1120203.jpg",
+     "src": "colorado/p1120203.jpg",
      "w": 1352,
      "h": 1800
     },
     {
-     "src": "images/colorado/p1120331.jpg",
+     "src": "colorado/p1120331.jpg",
      "w": 1352,
      "h": 1800
     },
     {
-     "src": "images/colorado/p1130741.jpg",
+     "src": "colorado/p1130741.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/colorado/p1130874.jpg",
+     "src": "colorado/p1130874.jpg",
      "w": 1325,
      "h": 1800
     },
     {
-     "src": "images/colorado/p1140435.jpg",
+     "src": "colorado/p1140435.jpg",
      "w": 1352,
      "h": 1800
     },
     {
-     "src": "images/colorado/p1140471.jpg",
+     "src": "colorado/p1140471.jpg",
      "w": 1352,
      "h": 1800
     },
     {
-     "src": "images/colorado/skiers1.jpg",
+     "src": "colorado/skiers1.jpg",
      "w": 1440,
      "h": 1800
     }
@@ -1890,102 +1890,102 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/czech-republic/dsc05357.jpg",
+     "src": "czech-republic/dsc05357.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05362.jpg",
+     "src": "czech-republic/dsc05362.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05364.jpg",
+     "src": "czech-republic/dsc05364.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05383.jpg",
+     "src": "czech-republic/dsc05383.jpg",
      "w": 1253,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05388.jpg",
+     "src": "czech-republic/dsc05388.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05398.jpg",
+     "src": "czech-republic/dsc05398.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05401.jpg",
+     "src": "czech-republic/dsc05401.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05405.jpg",
+     "src": "czech-republic/dsc05405.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05407.jpg",
+     "src": "czech-republic/dsc05407.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05412.jpg",
+     "src": "czech-republic/dsc05412.jpg",
      "w": 1148,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05421.jpg",
+     "src": "czech-republic/dsc05421.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05427.jpg",
+     "src": "czech-republic/dsc05427.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05431.jpg",
+     "src": "czech-republic/dsc05431.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05437.jpg",
+     "src": "czech-republic/dsc05437.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05439.jpg",
+     "src": "czech-republic/dsc05439.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05441.jpg",
+     "src": "czech-republic/dsc05441.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05495.jpg",
+     "src": "czech-republic/dsc05495.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05497.jpg",
+     "src": "czech-republic/dsc05497.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05541.jpg",
+     "src": "czech-republic/dsc05541.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/czech-republic/dsc05545.jpg",
+     "src": "czech-republic/dsc05545.jpg",
      "w": 1201,
      "h": 1800
     }
@@ -1997,177 +1997,177 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/france/dsc05357.jpg",
+     "src": "france/dsc05357.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05362.jpg",
+     "src": "france/dsc05362.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05364.jpg",
+     "src": "france/dsc05364.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05383.jpg",
+     "src": "france/dsc05383.jpg",
      "w": 1253,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05388.jpg",
+     "src": "france/dsc05388.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05398.jpg",
+     "src": "france/dsc05398.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05401.jpg",
+     "src": "france/dsc05401.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05405.jpg",
+     "src": "france/dsc05405.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05407.jpg",
+     "src": "france/dsc05407.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05412.jpg",
+     "src": "france/dsc05412.jpg",
      "w": 1148,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05421.jpg",
+     "src": "france/dsc05421.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05427.jpg",
+     "src": "france/dsc05427.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05431.jpg",
+     "src": "france/dsc05431.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05437.jpg",
+     "src": "france/dsc05437.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05439.jpg",
+     "src": "france/dsc05439.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05441.jpg",
+     "src": "france/dsc05441.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05495.jpg",
+     "src": "france/dsc05495.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05497.jpg",
+     "src": "france/dsc05497.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05541.jpg",
+     "src": "france/dsc05541.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05545.jpg",
+     "src": "france/dsc05545.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05597.jpg",
+     "src": "france/dsc05597.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/france/dsc05604.jpg",
+     "src": "france/dsc05604.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc05610.jpg",
+     "src": "france/dsc05610.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06026.jpg",
+     "src": "france/dsc06026.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06029.jpg",
+     "src": "france/dsc06029.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06031.jpg",
+     "src": "france/dsc06031.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06054.jpg",
+     "src": "france/dsc06054.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06062.jpg",
+     "src": "france/dsc06062.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/france/dsc06064.jpg",
+     "src": "france/dsc06064.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06065.jpg",
+     "src": "france/dsc06065.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06068.jpg",
+     "src": "france/dsc06068.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06074.jpg",
+     "src": "france/dsc06074.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06075-2.jpg",
+     "src": "france/dsc06075-2.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06075.jpg",
+     "src": "france/dsc06075.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/france/dsc06078.jpg",
+     "src": "france/dsc06078.jpg",
      "w": 1201,
      "h": 1800
     }
@@ -2179,7 +2179,7 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/germany/dsc04931.jpg",
+     "src": "germany/dsc04931.jpg",
      "w": 1201,
      "h": 1800
     }
@@ -2191,127 +2191,127 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/guatemala/dsc4835.jpg",
+     "src": "guatemala/dsc4835.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4857.jpg",
+     "src": "guatemala/dsc4857.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4899.jpg",
+     "src": "guatemala/dsc4899.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4909.jpg",
+     "src": "guatemala/dsc4909.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/guatemala/dsc4938.jpg",
+     "src": "guatemala/dsc4938.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4942.jpg",
+     "src": "guatemala/dsc4942.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/guatemala/dsc4952.jpg",
+     "src": "guatemala/dsc4952.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4958.jpg",
+     "src": "guatemala/dsc4958.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4966.jpg",
+     "src": "guatemala/dsc4966.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4972.jpg",
+     "src": "guatemala/dsc4972.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4979.jpg",
+     "src": "guatemala/dsc4979.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4980.jpg",
+     "src": "guatemala/dsc4980.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4990.jpg",
+     "src": "guatemala/dsc4990.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4992.jpg",
+     "src": "guatemala/dsc4992.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc4998.jpg",
+     "src": "guatemala/dsc4998.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5001.jpg",
+     "src": "guatemala/dsc5001.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5004.jpg",
+     "src": "guatemala/dsc5004.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5011.jpg",
+     "src": "guatemala/dsc5011.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5012.jpg",
+     "src": "guatemala/dsc5012.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5017-2.jpg",
+     "src": "guatemala/dsc5017-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5017.jpg",
+     "src": "guatemala/dsc5017.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5043.jpg",
+     "src": "guatemala/dsc5043.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5045.jpg",
+     "src": "guatemala/dsc5045.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5048.jpg",
+     "src": "guatemala/dsc5048.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/guatemala/dsc5060.jpg",
+     "src": "guatemala/dsc5060.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -2323,137 +2323,137 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/japan/dsc0042.jpg",
+     "src": "japan/dsc0042.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc0046.jpg",
+     "src": "japan/dsc0046.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/japan/dsc0063.jpg",
+     "src": "japan/dsc0063.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/japan/dsc0064.jpg",
+     "src": "japan/dsc0064.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/japan/dsc0067.jpg",
+     "src": "japan/dsc0067.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc0078.jpg",
+     "src": "japan/dsc0078.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/japan/dsc0084.jpg",
+     "src": "japan/dsc0084.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/japan/dsc0087.jpg",
+     "src": "japan/dsc0087.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/japan/dsc0094.jpg",
+     "src": "japan/dsc0094.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc0114-1.jpg",
+     "src": "japan/dsc0114-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc0123.jpg",
+     "src": "japan/dsc0123.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9506.jpg",
+     "src": "japan/dsc9506.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/japan/dsc9552.jpg",
+     "src": "japan/dsc9552.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/japan/dsc9582.jpg",
+     "src": "japan/dsc9582.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/japan/dsc9596.jpg",
+     "src": "japan/dsc9596.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9622.jpg",
+     "src": "japan/dsc9622.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/japan/dsc9665.jpg",
+     "src": "japan/dsc9665.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/japan/dsc9693.jpg",
+     "src": "japan/dsc9693.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/japan/dsc9696.jpg",
+     "src": "japan/dsc9696.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9709.jpg",
+     "src": "japan/dsc9709.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/japan/dsc9721.jpg",
+     "src": "japan/dsc9721.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9753.jpg",
+     "src": "japan/dsc9753.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9774.jpg",
+     "src": "japan/dsc9774.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9789.jpg",
+     "src": "japan/dsc9789.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9805.jpg",
+     "src": "japan/dsc9805.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/japan/dsc9955.jpg",
+     "src": "japan/dsc9955.jpg",
      "w": 1800,
      "h": 1013
     },
     {
-     "src": "images/japan/dsc9998.jpg",
+     "src": "japan/dsc9998.jpg",
      "w": 1659,
      "h": 1107
     }
@@ -2465,172 +2465,172 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/oregon/dsc3790.jpg",
+     "src": "oregon/dsc3790.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6131.jpg",
+     "src": "oregon/dsc6131.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6137.jpg",
+     "src": "oregon/dsc6137.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6179.jpg",
+     "src": "oregon/dsc6179.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6197.jpg",
+     "src": "oregon/dsc6197.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/oregon/dsc6200.jpg",
+     "src": "oregon/dsc6200.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6204.jpg",
+     "src": "oregon/dsc6204.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc6207.jpg",
+     "src": "oregon/dsc6207.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6208.jpg",
+     "src": "oregon/dsc6208.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6214.jpg",
+     "src": "oregon/dsc6214.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6215.jpg",
+     "src": "oregon/dsc6215.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6218.jpg",
+     "src": "oregon/dsc6218.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc6221.jpg",
+     "src": "oregon/dsc6221.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc6226.jpg",
+     "src": "oregon/dsc6226.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc6230.jpg",
+     "src": "oregon/dsc6230.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9356.jpg",
+     "src": "oregon/dsc9356.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9357.jpg",
+     "src": "oregon/dsc9357.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9359.jpg",
+     "src": "oregon/dsc9359.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9362-1.jpg",
+     "src": "oregon/dsc9362-1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9362.jpg",
+     "src": "oregon/dsc9362.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9371.jpg",
+     "src": "oregon/dsc9371.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9373.jpg",
+     "src": "oregon/dsc9373.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9378.jpg",
+     "src": "oregon/dsc9378.jpg",
      "w": 1119,
      "h": 746
     },
     {
-     "src": "images/oregon/dsc9406.jpg",
+     "src": "oregon/dsc9406.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9407.jpg",
+     "src": "oregon/dsc9407.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9412.jpg",
+     "src": "oregon/dsc9412.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/oregon/dsc9460.jpg",
+     "src": "oregon/dsc9460.jpg",
      "w": 1012,
      "h": 1800
     },
     {
-     "src": "images/oregon/dsc9462.jpg",
+     "src": "oregon/dsc9462.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc9465.jpg",
+     "src": "oregon/dsc9465.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc9467.jpg",
+     "src": "oregon/dsc9467.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc9474.jpg",
+     "src": "oregon/dsc9474.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc9475.jpg",
+     "src": "oregon/dsc9475.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc9482.jpg",
+     "src": "oregon/dsc9482.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/oregon/dsc9489.jpg",
+     "src": "oregon/dsc9489.jpg",
      "w": 1800,
      "h": 1012
     }
@@ -2642,27 +2642,27 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/portraits/candid-2.jpg",
+     "src": "portraits/candid-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/portraits/candid.jpg",
+     "src": "portraits/candid.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/portraits/dsc9327.jpg",
+     "src": "portraits/dsc9327.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/portraits/formal.jpg",
+     "src": "portraits/formal.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/portraits/img-6931.jpg",
+     "src": "portraits/img-6931.jpg",
      "w": 1350,
      "h": 1800
     }
@@ -2674,82 +2674,82 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/products/coffeegrounds1.jpg",
+     "src": "products/coffeegrounds1.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/products/coffeegrounds2.jpg",
+     "src": "products/coffeegrounds2.jpg",
      "w": 1800,
      "h": 1440
     },
     {
-     "src": "images/products/coffeegrounds3.jpg",
+     "src": "products/coffeegrounds3.jpg",
      "w": 1800,
      "h": 1440
     },
     {
-     "src": "images/products/coffeegrounds4.jpg",
+     "src": "products/coffeegrounds4.jpg",
      "w": 1800,
      "h": 1440
     },
     {
-     "src": "images/products/dsc02479.jpg",
+     "src": "products/dsc02479.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/products/dsc02503.jpg",
+     "src": "products/dsc02503.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/products/dsc02512.jpg",
+     "src": "products/dsc02512.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/products/dsc02683.jpg",
+     "src": "products/dsc02683.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/products/jessupproduct1.jpg",
+     "src": "products/jessupproduct1.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/products/jessupproduct2.jpg",
+     "src": "products/jessupproduct2.jpg",
      "w": 1800,
      "h": 1440
     },
     {
-     "src": "images/products/jessupproduct3.jpg",
+     "src": "products/jessupproduct3.jpg",
      "w": 1800,
      "h": 1440
     },
     {
-     "src": "images/products/jessupproduct4.jpg",
+     "src": "products/jessupproduct4.jpg",
      "w": 1283,
      "h": 1800
     },
     {
-     "src": "images/products/oreo1.jpg",
+     "src": "products/oreo1.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/products/oreo2.jpg",
+     "src": "products/oreo2.jpg",
      "w": 1800,
      "h": 1440
     },
     {
-     "src": "images/products/owen1.jpg",
+     "src": "products/owen1.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/products/owen3.jpg",
+     "src": "products/owen3.jpg",
      "w": 1440,
      "h": 1800
     }
@@ -2761,52 +2761,52 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/projects/dsc9929.jpg",
+     "src": "projects/dsc9929.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/jessupisaac06.jpg",
+     "src": "projects/jessupisaac06.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/jessupisaac08.jpg",
+     "src": "projects/jessupisaac08.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/jessupisaac10.jpg",
+     "src": "projects/jessupisaac10.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/jessupisaac11.jpg",
+     "src": "projects/jessupisaac11.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/jessupsheriff-soffice.jpg",
+     "src": "projects/jessupsheriff-soffice.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/policestation1.jpg",
+     "src": "projects/policestation1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/vacant1.jpg",
+     "src": "projects/vacant1.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/vacant10.jpg",
+     "src": "projects/vacant10.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects/vacant9.jpg",
+     "src": "projects/vacant9.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -2818,67 +2818,67 @@ window.PORTFOLIO = {
    "parent": "Projects",
    "photos": [
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive1.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive1.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive10.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive10.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive11.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive11.jpg",
      "w": 1012,
      "h": 1800
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive12.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive12.jpg",
      "w": 1012,
      "h": 1800
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive13.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive13.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive14.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive14.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive2.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive2.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive3.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive3.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive5.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive5.jpg",
      "w": 1012,
      "h": 1800
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive6.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive6.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive7.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive7.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive8.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive8.jpg",
      "w": 1012,
      "h": 1800
     },
     {
-     "src": "images/projects-adaptive-event-shots/jessupadaptive9.jpg",
+     "src": "projects-adaptive-event-shots/jessupadaptive9.jpg",
      "w": 1012,
      "h": 1800
     }
@@ -2890,152 +2890,152 @@ window.PORTFOLIO = {
    "parent": "Projects",
    "photos": [
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8005.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8005.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8016.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8016.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8021.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8021.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8027.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8027.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8045.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8045.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8067.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8067.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8068.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8068.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8075.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8075.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8088.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8088.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8089.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8089.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8091.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8091.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8093.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8093.jpg",
      "w": 1800,
      "h": 1200
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8114.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8114.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8129.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8129.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8145.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8145.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8171.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8171.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8174.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8174.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8211.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8211.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8213.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8213.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8238.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8238.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8240.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8240.jpg",
      "w": 1653,
      "h": 1103
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8336.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8336.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8358.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8358.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8625.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8625.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8640.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8640.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8651.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8651.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8666.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8666.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8668.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8668.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8673.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8673.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-ryan-and-audrey-engagment/dsc8711.jpg",
+     "src": "projects-ryan-and-audrey-engagment/dsc8711.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -3047,147 +3047,147 @@ window.PORTFOLIO = {
    "parent": "Projects",
    "photos": [
     {
-     "src": "images/projects-viticulture/dsc8529.jpg",
+     "src": "projects-viticulture/dsc8529.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc8532.jpg",
+     "src": "projects-viticulture/dsc8532.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc8534.jpg",
+     "src": "projects-viticulture/dsc8534.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8540-2.jpg",
+     "src": "projects-viticulture/dsc8540-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8540.jpg",
+     "src": "projects-viticulture/dsc8540.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8548.jpg",
+     "src": "projects-viticulture/dsc8548.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8594-2.jpg",
+     "src": "projects-viticulture/dsc8594-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8594.jpg",
+     "src": "projects-viticulture/dsc8594.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8604.jpg",
+     "src": "projects-viticulture/dsc8604.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8634.jpg",
+     "src": "projects-viticulture/dsc8634.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc8648.jpg",
+     "src": "projects-viticulture/dsc8648.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8729-2.jpg",
+     "src": "projects-viticulture/dsc8729-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8770-2.jpg",
+     "src": "projects-viticulture/dsc8770-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8770.jpg",
+     "src": "projects-viticulture/dsc8770.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8793.jpg",
+     "src": "projects-viticulture/dsc8793.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8815-2.jpg",
+     "src": "projects-viticulture/dsc8815-2.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc8815.jpg",
+     "src": "projects-viticulture/dsc8815.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc8847.jpg",
+     "src": "projects-viticulture/dsc8847.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc8890.jpg",
+     "src": "projects-viticulture/dsc8890.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc8921.jpg",
+     "src": "projects-viticulture/dsc8921.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc9475.jpg",
+     "src": "projects-viticulture/dsc9475.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc9495.jpg",
+     "src": "projects-viticulture/dsc9495.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc9528.jpg",
+     "src": "projects-viticulture/dsc9528.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc9546.jpg",
+     "src": "projects-viticulture/dsc9546.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/dsc9585.jpg",
+     "src": "projects-viticulture/dsc9585.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc9675.jpg",
+     "src": "projects-viticulture/dsc9675.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc9678.jpg",
+     "src": "projects-viticulture/dsc9678.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/projects-viticulture/dsc9731.jpg",
+     "src": "projects-viticulture/dsc9731.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/projects-viticulture/jessupadaptive5.jpg",
+     "src": "projects-viticulture/jessupadaptive5.jpg",
      "w": 1012,
      "h": 1800
     }
@@ -3199,47 +3199,47 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/rainier/dsc07327.jpg",
+     "src": "rainier/dsc07327.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/rainier/dsc2468.jpg",
+     "src": "rainier/dsc2468.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/rainier/dsc2479.jpg",
+     "src": "rainier/dsc2479.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/rainier/dsc2488.jpg",
+     "src": "rainier/dsc2488.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/rainier/dsc2499.jpg",
+     "src": "rainier/dsc2499.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/rainier/dsc2517.jpg",
+     "src": "rainier/dsc2517.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/rainier/dsc2564.jpg",
+     "src": "rainier/dsc2564.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/rainier/dsc2568.jpg",
+     "src": "rainier/dsc2568.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/rainier/dsc2603.jpg",
+     "src": "rainier/dsc2603.jpg",
      "w": 1201,
      "h": 1800
     }
@@ -3251,122 +3251,122 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/utah/dsc0021.jpg",
+     "src": "utah/dsc0021.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc0102.jpg",
+     "src": "utah/dsc0102.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc0164.jpg",
+     "src": "utah/dsc0164.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc0168.jpg",
+     "src": "utah/dsc0168.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc0188.jpg",
+     "src": "utah/dsc0188.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc0221-enhanced-nr.jpg",
+     "src": "utah/dsc0221-enhanced-nr.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/utah/dsc0224-2.jpg",
+     "src": "utah/dsc0224-2.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/utah/dsc0224.jpg",
+     "src": "utah/dsc0224.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/utah/dsc03571.jpg",
+     "src": "utah/dsc03571.jpg",
      "w": 1800,
      "h": 1515
     },
     {
-     "src": "images/utah/dsc7962.jpg",
+     "src": "utah/dsc7962.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc8024.jpg",
+     "src": "utah/dsc8024.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc8030.jpg",
+     "src": "utah/dsc8030.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/dsc8035.jpg",
+     "src": "utah/dsc8035.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/utah/dsc8627.jpg",
+     "src": "utah/dsc8627.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/utah/dsc9932.jpg",
+     "src": "utah/dsc9932.jpg",
      "w": 1800,
      "h": 1012
     },
     {
-     "src": "images/utah/dsc9979.jpg",
+     "src": "utah/dsc9979.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/img20211231-22091209.jpg",
+     "src": "utah/img20211231-22091209.jpg",
      "w": 1712,
      "h": 1036
     },
     {
-     "src": "images/utah/img20211231-22100878.jpg",
+     "src": "utah/img20211231-22100878.jpg",
      "w": 1660,
      "h": 1036
     },
     {
-     "src": "images/utah/img20211231-22103911.jpg",
+     "src": "utah/img20211231-22103911.jpg",
      "w": 1648,
      "h": 1036
     },
     {
-     "src": "images/utah/img20211231-22224686.jpg",
+     "src": "utah/img20211231-22224686.jpg",
      "w": 1648,
      "h": 1064
     },
     {
-     "src": "images/utah/img20211231-22404348.jpg",
+     "src": "utah/img20211231-22404348.jpg",
      "w": 1648,
      "h": 1044
     },
     {
-     "src": "images/utah/jessuparches03.jpg",
+     "src": "utah/jessuparches03.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/jessuparches05.jpg",
+     "src": "utah/jessuparches05.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/utah/untitled-1.jpg",
+     "src": "utah/untitled-1.jpg",
      "w": 1800,
      "h": 1014
     }
@@ -3378,167 +3378,167 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/washington/dsc07327.jpg",
+     "src": "washington/dsc07327.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc07540.jpg",
+     "src": "washington/dsc07540.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc07622.jpg",
+     "src": "washington/dsc07622.jpg",
      "w": 1440,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc07659.jpg",
+     "src": "washington/dsc07659.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc07698.jpg",
+     "src": "washington/dsc07698.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2442.jpg",
+     "src": "washington/dsc2442.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2449.jpg",
+     "src": "washington/dsc2449.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2468.jpg",
+     "src": "washington/dsc2468.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2471.jpg",
+     "src": "washington/dsc2471.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2479.jpg",
+     "src": "washington/dsc2479.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2499.jpg",
+     "src": "washington/dsc2499.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2517.jpg",
+     "src": "washington/dsc2517.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2550.jpg",
+     "src": "washington/dsc2550.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2554.jpg",
+     "src": "washington/dsc2554.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2564.jpg",
+     "src": "washington/dsc2564.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2568.jpg",
+     "src": "washington/dsc2568.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2574.jpg",
+     "src": "washington/dsc2574.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2575.jpg",
+     "src": "washington/dsc2575.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2576.jpg",
+     "src": "washington/dsc2576.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2595.jpg",
+     "src": "washington/dsc2595.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc2596.jpg",
+     "src": "washington/dsc2596.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2597.jpg",
+     "src": "washington/dsc2597.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc2806.jpg",
+     "src": "washington/dsc2806.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/washington/dsc7704.jpg",
+     "src": "washington/dsc7704.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7775.jpg",
+     "src": "washington/dsc7775.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7777.jpg",
+     "src": "washington/dsc7777.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7790.jpg",
+     "src": "washington/dsc7790.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7834.jpg",
+     "src": "washington/dsc7834.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7841.jpg",
+     "src": "washington/dsc7841.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7901.jpg",
+     "src": "washington/dsc7901.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7903.jpg",
+     "src": "washington/dsc7903.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7919-2.jpg",
+     "src": "washington/dsc7919-2.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/washington/dsc7919.jpg",
+     "src": "washington/dsc7919.jpg",
      "w": 1800,
      "h": 1201
     }
@@ -3550,57 +3550,57 @@ window.PORTFOLIO = {
    "parent": null,
    "photos": [
     {
-     "src": "images/wyoming/anseladamscopy.jpg",
+     "src": "wyoming/anseladamscopy.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/wyoming/dsc0453.jpg",
+     "src": "wyoming/dsc0453.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/wyoming/dsc0938.jpg",
+     "src": "wyoming/dsc0938.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/wyoming/dsc1009.jpg",
+     "src": "wyoming/dsc1009.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/wyoming/dsc1030.jpg",
+     "src": "wyoming/dsc1030.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/wyoming/dsc1038.jpg",
+     "src": "wyoming/dsc1038.jpg",
      "w": 1201,
      "h": 1800
     },
     {
-     "src": "images/wyoming/dsc1195.jpg",
+     "src": "wyoming/dsc1195.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/wyoming/dsc1235.jpg",
+     "src": "wyoming/dsc1235.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/wyoming/dsc1282.jpg",
+     "src": "wyoming/dsc1282.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/wyoming/mistyteton.jpg",
+     "src": "wyoming/mistyteton.jpg",
      "w": 1800,
      "h": 1201
     },
     {
-     "src": "images/wyoming/tetonsoxbowbend.jpg",
+     "src": "wyoming/tetonsoxbowbend.jpg",
      "w": 1800,
      "h": 1201
     }
