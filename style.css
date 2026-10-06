@@ -165,3 +165,17 @@ body.menu-open { overflow: hidden; }
   .caption { display: none; }
   :root { --gap: 4px; }
 }
+
+/* ---------- Projects page ---------- */
+.projects { padding: 0 clamp(18px, 4vw, 48px) 90px; display: flex; flex-direction: column; gap: clamp(36px, 5vw, 64px); max-width: 1200px; }
+.project { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: clamp(22px, 4vw, 56px); align-items: center; padding-top: clamp(36px, 5vw, 64px); border-top: 1px solid var(--line); }
+.project-img { display: block; overflow: hidden; background: #161616; }
+.project-img img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; transition: transform .8s ease; }
+.project-img:hover img { transform: scale(1.03); }
+.project-text h2 { font-family: var(--serif); font-weight: 300; font-size: clamp(32px, 4vw, 54px); line-height: 1.05; }
+.project-text p { margin-top: 16px; font-size: 15px; line-height: 1.7; color: var(--muted); max-width: 46ch; }
+.project-link { display: inline-block; margin-top: 22px; font-size: 11px; letter-spacing: .3em; text-transform: uppercase; border-bottom: 1px solid var(--line); padding-bottom: 4px; transition: border-color .2s; }
+.project-link:hover { border-color: #fff; }
+.eyebrow a { color: inherit; }
+.eyebrow a:hover { color: #fff; }
+@media (max-width: 760px) { .project { grid-template-columns: 1fr; } }

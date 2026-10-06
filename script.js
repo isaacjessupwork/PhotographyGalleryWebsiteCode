@@ -9,14 +9,24 @@
 
   /* ---------------- Portfolio menu (pop-up) ---------------- */
   function buildMenu() {
-    const WORK = ["portraits", "products", "projects"];
-    const isWork = (c) => WORK.some((w) => c.slug === w || c.slug.startsWith(w + "-"));
     const cur = new URLSearchParams(location.search).get("c");
-    const link = (c, i) =>
-      `<li style="--i:${i}"><a href="gallery.html?c=${encodeURIComponent(c.slug)}"` +
-      (c.slug === cur ? ' class="current"' : "") + `>${c.name}</a></li>`;
+    const inProject = (c) => c.parent === "Projects";
+    const WORK = ["portraits", "products", "projects-ryan-and-audrey-engagment"];
+    const isWork = (c) => WORK.includes(c.slug) || inProject(c);
+    const curCat = D.categories.find((c) => c.slug === cur);
+    const onProjects = /projects\.html$/.test(location.pathname) || (curCat && inProject(curCat));
+    const item = (href, name, isCur, i) =>
+      `<li style="--i:${i}"><a href="${href}"${isCur ? ' class="current"' : ""}>${name}</a></li>`;
+    const link = (c, i) => item(`gallery.html?c=${encodeURIComponent(c.slug)}`, c.name, c.slug === cur, i);
     const places = D.categories.filter((c) => !isWork(c));
-    const work = D.categories.filter(isWork);
+    const bySlug = (s) => D.categories.find((c) => c.slug === s);
+    const n = places.length;
+    const workHtml = [
+      link(bySlug("portraits"), n),
+      link(bySlug("products"), n + 1),
+      item("projects.html", "Projects", onProjects, n + 2),
+      link(bySlug("projects-ryan-and-audrey-engagment"), n + 3),
+    ].join("");
 
     const overlay = document.createElement("div");
     overlay.className = "menu-overlay";
@@ -30,7 +40,7 @@
         </section>
         <section>
           <h2 class="menu-label">Work</h2>
-          <ul class="menu-list">${work.map((c, k) => link(c, places.length + k)).join("")}</ul>
+          <ul class="menu-list">${workHtml}</ul>
         </section>
       </nav>`;
     document.body.appendChild(overlay);
@@ -93,12 +103,17 @@
     const cat = cats[i];
     cat.photos = shuffle(cat.photos.slice());
     document.title = `${cat.name} — ${D.name}`;
-    $(".gallery-head .eyebrow").textContent = cat.parent || "Portfolio";
+    const eb = $(".gallery-head .eyebrow");
+    if (cat.parent === "Projects") eb.innerHTML = '<a href="projects.html">← Projects</a>';
+    else eb.textContent = "Portfolio";
     $(".gallery-head h1").textContent = cat.name;
     $(".gallery-head .meta").textContent = `${cat.photos.length} photographs`;
 
-    const prev = cats[(i - 1 + cats.length) % cats.length];
-    const next = cats[(i + 1) % cats.length];
+    // Prev/next stays within the same group (main galleries, or the three projects)
+    const group = cats.filter((c) => (c.parent === "Projects") === (cat.parent === "Projects"));
+    const gi = group.indexOf(cat);
+    const prev = group[(gi - 1 + group.length) % group.length];
+    const next = group[(gi + 1) % group.length];
     $(".gallery-nav .prev").href = `gallery.html?c=${prev.slug}`;
     $(".gallery-nav .prev").textContent = `← ${prev.name}`;
     $(".gallery-nav .next").href = `gallery.html?c=${next.slug}`;

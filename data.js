@@ -1,4 +1,4 @@
-/* Site data — edit the carousel list or contact details here. */
+/* Site data — edit the carousel list or contact details here. Project descriptions live in projects.html. */
 window.PORTFOLIO = {
  "name": "Isaac Jessup",
  "contact": {
@@ -971,34 +971,9 @@ window.PORTFOLIO = {
      "h": 1200
     },
     {
-     "src": "colorado/dsc2651.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2656.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2657.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "colorado/dsc2659.jpg",
      "w": 1201,
      "h": 1800
-    },
-    {
-     "src": "colorado/dsc2668.jpg",
-     "w": 1201,
-     "h": 1800
-    },
-    {
-     "src": "colorado/dsc2670.jpg",
-     "w": 1800,
-     "h": 1201
     },
     {
      "src": "colorado/dsc2677.jpg",
@@ -1007,11 +982,6 @@ window.PORTFOLIO = {
     },
     {
      "src": "colorado/dsc2678.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2690.jpg",
      "w": 1800,
      "h": 1201
     },
@@ -1036,16 +1006,6 @@ window.PORTFOLIO = {
      "h": 1200
     },
     {
-     "src": "colorado/dsc2727.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2745.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "colorado/dsc2749.jpg",
      "w": 1800,
      "h": 1201
@@ -1057,36 +1017,6 @@ window.PORTFOLIO = {
     },
     {
      "src": "colorado/dsc2762.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2769-2.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2769.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2770-2.jpg",
-     "w": 1800,
-     "h": 1200
-    },
-    {
-     "src": "colorado/dsc2770.jpg",
-     "w": 1800,
-     "h": 1200
-    },
-    {
-     "src": "colorado/dsc2771.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2772.jpg",
      "w": 1800,
      "h": 1201
     },
@@ -1121,11 +1051,6 @@ window.PORTFOLIO = {
      "h": 1201
     },
     {
-     "src": "colorado/dsc2799.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "colorado/dsc2801.jpg",
      "w": 1800,
      "h": 1201
@@ -1139,16 +1064,6 @@ window.PORTFOLIO = {
      "src": "colorado/dsc2811.jpg",
      "w": 1800,
      "h": 1200
-    },
-    {
-     "src": "colorado/dsc2821.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2824.jpg",
-     "w": 1800,
-     "h": 1201
     },
     {
      "src": "colorado/dsc2831.jpg",
@@ -1172,26 +1087,6 @@ window.PORTFOLIO = {
     },
     {
      "src": "colorado/dsc2846.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2849-2.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2849.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2850-2.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2850.jpg",
      "w": 1800,
      "h": 1201
     },
@@ -1221,21 +1116,6 @@ window.PORTFOLIO = {
      "h": 1012
     },
     {
-     "src": "colorado/dsc2887-2.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2887-3.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "colorado/dsc2887.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "colorado/dsc2893.jpg",
      "w": 1800,
      "h": 1201
@@ -1249,6 +1129,221 @@ window.PORTFOLIO = {
      "src": "colorado/dsc2912.jpg",
      "w": 1800,
      "h": 1200
+    },
+    {
+     "src": "colorado/dsc3052.jpg",
+     "w": 1201,
+     "h": 1800
+    },
+    {
+     "src": "colorado/dsc3074.jpg",
+     "w": 1800,
+     "h": 614
+    },
+    {
+     "src": "colorado/dsc3075.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3079.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3134.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3141.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3142-2.jpg",
+     "w": 1800,
+     "h": 1012
+    },
+    {
+     "src": "colorado/dsc3142.jpg",
+     "w": 1800,
+     "h": 1013
+    },
+    {
+     "src": "colorado/dsc3146.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3148.jpg",
+     "w": 1201,
+     "h": 1800
+    },
+    {
+     "src": "colorado/dsc3158.jpg",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "src": "colorado/dsc3163-2.jpg",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "src": "colorado/dsc3201.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3210.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3214.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3215.jpg",
+     "w": 1800,
+     "h": 1013
+    },
+    {
+     "src": "colorado/dsc3217.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3246.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3249.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3253.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3254.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3279.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3290.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3297.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3298.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3300.jpg",
+     "w": 1201,
+     "h": 1800
+    },
+    {
+     "src": "colorado/dsc3307.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3330.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3333.jpg",
+     "w": 1201,
+     "h": 1800
+    },
+    {
+     "src": "colorado/dsc3337.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3362.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3368.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3369.jpg",
+     "w": 1800,
+     "h": 1013
+    },
+    {
+     "src": "colorado/dsc3378.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3379.jpg",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "src": "colorado/dsc3396.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3399.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3405.jpg",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "src": "colorado/dsc3410.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "colorado/dsc3426.jpg",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "src": "colorado/dsc3428.jpg",
+     "w": 1800,
+     "h": 1200
+    },
+    {
+     "src": "colorado/dsc3430.jpg",
+     "w": 1800,
+     "h": 1013
+    },
+    {
+     "src": "colorado/dsc3432.jpg",
+     "w": 1800,
+     "h": 1012
     },
     {
      "src": "colorado/dsc7793.jpg",
@@ -1288,16 +1383,6 @@ window.PORTFOLIO = {
     {
      "src": "colorado/maroonbells1.jpg",
      "w": 1440,
-     "h": 1800
-    },
-    {
-     "src": "colorado/p1120203.jpg",
-     "w": 1352,
-     "h": 1800
-    },
-    {
-     "src": "colorado/p1120331.jpg",
-     "w": 1352,
      "h": 1800
     },
     {
@@ -2108,6 +2193,16 @@ window.PORTFOLIO = {
      "src": "portraits/img-6931.jpg",
      "w": 1350,
      "h": 1800
+    },
+    {
+     "src": "portraits/owen1.jpg",
+     "w": 1440,
+     "h": 1800
+    },
+    {
+     "src": "portraits/owen3.jpg",
+     "w": 1440,
+     "h": 1800
     }
    ]
   },
@@ -2185,23 +2280,13 @@ window.PORTFOLIO = {
      "src": "products/oreo2.jpg",
      "w": 1800,
      "h": 1440
-    },
-    {
-     "src": "products/owen1.jpg",
-     "w": 1440,
-     "h": 1800
-    },
-    {
-     "src": "products/owen3.jpg",
-     "w": 1440,
-     "h": 1800
     }
    ]
   },
   {
    "slug": "projects",
-   "name": "Projects",
-   "parent": null,
+   "name": "Miscellaneous",
+   "parent": "Projects",
    "photos": [
     {
      "src": "projects/dsc9929.jpg",
@@ -2257,7 +2342,7 @@ window.PORTFOLIO = {
   },
   {
    "slug": "projects-adaptive-event-shots",
-   "name": "Adaptive Event Shots",
+   "name": "Adaptive Event Photos",
    "parent": "Projects",
    "photos": [
     {
@@ -2329,8 +2414,8 @@ window.PORTFOLIO = {
   },
   {
    "slug": "projects-ryan-and-audrey-engagment",
-   "name": "Ryan and Audrey Engagement",
-   "parent": "Projects",
+   "name": "Engagement Photos",
+   "parent": null,
    "photos": [
     {
      "src": "projects-ryan-and-audrey-engagment/dsc8005.jpg",
