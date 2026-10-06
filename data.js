@@ -3,8 +3,8 @@ window.PORTFOLIO = {
  "name": "Isaac Jessup",
  "contact": {
   "email": "isaacjessupwork@gmail.com",
-  "instagram": "@yourinstagram",
-  "tiktok": "@yourtiktok"
+  "instagram": "@isaacjessup_",
+  "tiktok": "@isaacjessup"
  },
  "carousel": [
   {
