@@ -2775,22 +2775,12 @@ window.PORTFOLIO = {
      "h": 1201
     },
     {
-     "src": "projects-viticulture/dsc8540-2.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "projects-viticulture/dsc8540.jpg",
      "w": 1800,
      "h": 1201
     },
     {
      "src": "projects-viticulture/dsc8548.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "projects-viticulture/dsc8594-2.jpg",
      "w": 1800,
      "h": 1201
     },
@@ -2820,11 +2810,6 @@ window.PORTFOLIO = {
      "h": 1201
     },
     {
-     "src": "projects-viticulture/dsc8770-2.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
      "src": "projects-viticulture/dsc8770.jpg",
      "w": 1800,
      "h": 1201
@@ -2833,11 +2818,6 @@ window.PORTFOLIO = {
      "src": "projects-viticulture/dsc8793.jpg",
      "w": 1800,
      "h": 1201
-    },
-    {
-     "src": "projects-viticulture/dsc8815-2.jpg",
-     "w": 1201,
-     "h": 1800
     },
     {
      "src": "projects-viticulture/dsc8815.jpg",
@@ -2898,11 +2878,6 @@ window.PORTFOLIO = {
      "src": "projects-viticulture/dsc9731.jpg",
      "w": 1800,
      "h": 1201
-    },
-    {
-     "src": "projects-viticulture/jessupadaptive5.jpg",
-     "w": 1012,
-     "h": 1800
     }
    ]
   },
