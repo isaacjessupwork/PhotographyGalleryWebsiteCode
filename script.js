@@ -109,7 +109,6 @@
     if (cat.parent === "Projects") eb.innerHTML = '<a href="projects.html">← Projects</a>';
     else eb.textContent = "Portfolio";
     $(".gallery-head h1").textContent = cat.name;
-    $(".gallery-head .meta").textContent = `${cat.photos.length} photographs`;
 
     // Prev/next stays within the same group (main galleries, or the three projects)
     const group = cats.filter((c) => (c.parent === "Projects") === (cat.parent === "Projects"));
