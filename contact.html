@@ -7,6 +7,35 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css?v=20261007c">
+<style>
+/* ---- Contact form ---- */
+.contact-form { width: min(520px, 100%); margin-top: 56px; display: flex; flex-direction: column; gap: 26px; text-align: left; }
+.contact-form .field { display: flex; flex-direction: column; gap: 8px; }
+.contact-form label { font-size: 10px; letter-spacing: .38em; text-transform: uppercase; color: var(--muted); }
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%; background: rgba(255,255,255,.04); color: #fff;
+  border: 0; border-bottom: 1px solid var(--line); border-radius: 0;
+  padding: 12px 10px; font-family: var(--serif); font-size: clamp(20px, 2.6vw, 26px); font-weight: 300;
+  outline: none; transition: border-color .25s, background .25s;
+}
+.contact-form textarea { min-height: 150px; resize: vertical; line-height: 1.4; }
+.contact-form input:focus, .contact-form textarea:focus { border-bottom-color: #fff; background: rgba(255,255,255,.08); }
+.contact-form .hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.contact-form .send-btn {
+  align-self: flex-start; margin-top: 6px; padding: 16px 38px;
+  background: transparent; color: #fff; border: 1px solid rgba(255,255,255,.85);
+  font: 500 11px/1 var(--font); letter-spacing: .32em; text-transform: uppercase; cursor: pointer;
+  transition: background .3s, color .3s, opacity .3s;
+}
+.contact-form .send-btn:hover { background: #fff; color: #0b0b0b; }
+.contact-form .send-btn:disabled { opacity: .5; cursor: default; }
+.form-status { min-height: 1.4em; font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); }
+.form-status.ok { color: #fff; }
+.form-status.err { color: #ff9a9a; }
+.contact-divider { margin-top: 56px; font-size: 10px; letter-spacing: .38em; text-transform: uppercase; color: var(--muted); }
+</style>
 </head>
 <body>
 <header class="site-header">
@@ -21,7 +50,32 @@
   <div class="contact-bg"></div>
   <h1>Get in touch</h1>
   <p class="lead">Commissions · Prints · Collaborations</p>
-  <div class="contact-list">
+
+  <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
+    <input type="hidden" name="access_key" value="dfe837a4-6304-4bfd-8171-02c1c5021ca3">
+    <input type="hidden" name="subject" value="New message from isaacjessup photography site">
+    <input type="hidden" name="from_name" value="Isaac Jessup Photography">
+    <!-- spam trap: real visitors never see or tick this -->
+    <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+    <div class="field">
+      <label for="cf-name">Name</label>
+      <input type="text" id="cf-name" name="name" autocomplete="name" required>
+    </div>
+    <div class="field">
+      <label for="cf-email">Email</label>
+      <input type="email" id="cf-email" name="email" autocomplete="email" required>
+    </div>
+    <div class="field">
+      <label for="cf-message">Message</label>
+      <textarea id="cf-message" name="message" required></textarea>
+    </div>
+    <button type="submit" class="send-btn">Send</button>
+    <p class="form-status" id="form-status" role="status" aria-live="polite"></p>
+  </form>
+
+  <p class="contact-divider">Or find me here</p>
+  <div class="contact-list" style="margin-top:26px">
     <a id="c-email" href="mailto:isaacjessupwork@gmail.com"><span class="label">Email</span><span class="value">isaacjessupwork@gmail.com</span></a>
     <a id="c-ig" href="https://www.instagram.com/isaacjessup_/" target="_blank" rel="noopener me"><span class="label">Instagram</span><span class="value">@isaacjessup_</span></a>
     <a id="c-tt" href="https://www.tiktok.com/@isaacjessup" target="_blank" rel="noopener me"><span class="label">TikTok</span><span class="value">@isaacjessup</span></a>
@@ -29,5 +83,32 @@
 </main>
 <script src="data.js?v=20261007c"></script>
 <script src="script.js?v=20261007c"></script>
+<script>
+/* Send the form without leaving the page; falls back to a normal POST if JS is off */
+(function () {
+  var form = document.getElementById("contact-form");
+  var status = document.getElementById("form-status");
+  var btn = form.querySelector(".send-btn");
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    btn.disabled = true; status.className = "form-status"; status.textContent = "Sending…";
+    var data = {};
+    new FormData(form).forEach(function (v, k) { data[k] = v; });
+    fetch(form.action, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "Accept": "application/json" },
+      body: JSON.stringify(data)
+    }).then(function (r) { return r.json(); }).then(function (j) {
+      if (j && j.success) {
+        form.reset(); status.className = "form-status ok";
+        status.textContent = "Thank you — your message was sent.";
+      } else { throw new Error((j && j.message) || "failed"); }
+    }).catch(function () {
+      status.className = "form-status err";
+      status.textContent = "Something went wrong — please email me directly instead.";
+    }).then(function () { btn.disabled = false; });
+  });
+})();
+</script>
 </body>
 </html>
