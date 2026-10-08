@@ -8,7 +8,7 @@ window.PORTFOLIO = {
  },
  "carousel": [
   {
-   "src": "dsc3401.jpg",
+   "src": "dsc4182-2.jpg",
    "place": "California",
    "featured": true
   },
@@ -555,8 +555,8 @@ window.PORTFOLIO = {
     },
     {
      "src": "dsc4182-2.jpg",
-     "w": 1800,
-     "h": 1201
+     "w": 2000,
+     "h": 1334
     },
     {
      "src": "dsc4182.jpg",
@@ -845,11 +845,6 @@ window.PORTFOLIO = {
     },
     {
      "src": "dsc5950.jpg",
-     "w": 1800,
-     "h": 1201
-    },
-    {
-     "src": "dsc3401.jpg",
      "w": 1800,
      "h": 1201
     }
