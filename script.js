@@ -67,7 +67,9 @@
     if (!hero) return;
     const dots = $(".dots");
     const cap = $(".caption");
-    shuffle(D.carousel);
+    // A slide marked "featured" always opens the site; the rest are shuffled
+    const feat = D.carousel.filter((p) => p.featured);
+    D.carousel = feat.concat(shuffle(D.carousel.filter((p) => !p.featured)));
     const slides = D.carousel.map((p, i) => {
       const s = document.createElement("div");
       s.className = "slide" + (i === 0 ? " active" : "");

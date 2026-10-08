@@ -8,6 +8,11 @@ window.PORTFOLIO = {
  },
  "carousel": [
   {
+   "src": "dsc3401.jpg",
+   "place": "California",
+   "featured": true
+  },
+  {
    "src": "canada/morainelake.jpg",
    "place": "Banff"
   },
@@ -840,6 +845,11 @@ window.PORTFOLIO = {
     },
     {
      "src": "dsc5950.jpg",
+     "w": 1800,
+     "h": 1201
+    },
+    {
+     "src": "dsc3401.jpg",
      "w": 1800,
      "h": 1201
     }
