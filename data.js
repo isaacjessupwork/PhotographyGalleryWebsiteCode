@@ -51,6 +51,10 @@ window.PORTFOLIO = {
   {
    "src": "wyoming/dsc0453.jpg",
    "place": "Wyoming"
+  },
+  {
+   "src": "colorado/dsc3401.jpg",
+   "place": "Colorado"
   }
  ],
  "categories": [
@@ -1414,6 +1418,11 @@ window.PORTFOLIO = {
      "src": "colorado/skiers1.jpg",
      "w": 1440,
      "h": 1800
+    },
+    {
+     "src": "colorado/dsc3401.jpg",
+     "w": 1800,
+     "h": 1201
     }
    ]
   },
